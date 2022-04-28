@@ -41,7 +41,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:hanlin.sun@qmul.ac.uk'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/sunhanlin151
@@ -68,7 +68,7 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-bio: Hanlin’s research focuses on several aspects of dynamic processes on networks and other structures with higher-order interactions, such as simplicial complexes and hypergraphs. His current Ph.D. project aims to understand the critical properties of standard and higher-order percolation on networks and hypergraphs respectively, and how network topologies and geometries affect the robustness and other critical behaviors. 
+Hanlin’s research focuses on several aspects of dynamic processes on networks and other structures with higher-order interactions, such as simplicial complexes and hypergraphs. His current Ph.D. project aims to understand the critical properties of standard and higher-order percolation on networks and hypergraphs respectively, and how network topologies and geometries affect the robustness and other critical behaviors. 
 
 Before joining Queen Mary, Hanlin studied physics at the University of Chinese Academy of Sciences, China (BSc). During his undergraduate study, he studied the inference and optimization on multiple interacting spreading processes under the supervisor of Prof. David Saad, and low-rank approximation algorithms on tensor networks under the supervisor of Prof. Pan Zhang.
 
