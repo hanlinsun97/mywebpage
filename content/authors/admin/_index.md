@@ -58,12 +58,12 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-- icon: cv
-   icon_pack: ai
-   link: uploads/resume.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'mailto:hanlin.sun@qmul.ac.uk'
+email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -72,4 +72,4 @@ bio: Hanlin’s research focuses on several aspects of dynamic processes on netw
 
 Before joining Queen Mary, Hanlin studied physics at the University of Chinese Academy of Sciences, China (BSc). During his undergraduate study, he studied the inference and optimization on multiple interacting spreading processes under the supervisor of Prof. David Saad, and low-rank approximation algorithms on tensor networks under the supervisor of Prof. Pan Zhang.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
