@@ -1,20 +1,22 @@
 ---
-title: 'An example conference paper'
+title: 'Message-passing approach to epidemic tracing and mitigation with apps'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Ginestra Bianconi
   - admin
-  - Robert Ford
+  - Giacomo Rapisardi
+  - Alex Arenas
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+date: '2021-02-08T00:00:00Z'
+doi: 'https://doi.org/10.1103/PhysRevResearch.3.L012014'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -23,21 +25,20 @@ publishDate: '2017-01-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *Physical Review Research*
+publication_short: In *Phys. Rev. Res*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: With the hit of new pandemic threats, scientific frameworks are needed to understand the unfolding of the epidemic. The use of mobile apps that are able to trace contacts is of utmost importance in order to control new infected cases and contain further propagation. Here we present a theoretical approach using both percolation and message-passing techniques, to the role of contact tracing, in mitigating an epidemic wave. We show how the increase of the app adoption level raises the value of the epidemic threshold, which is eventually maximized when high-degree nodes are preferentially targeted. Analytical results are compared with extensive Monte Carlo simulations showing good agreement for both homogeneous and heterogeneous networks. These results are important to quantify the level of adoption needed for contact-tracing apps to be effective in mitigating an epidemic.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
