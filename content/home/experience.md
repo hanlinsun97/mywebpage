@@ -41,6 +41,24 @@ experience:
     date_end: '2018-08-28'
     description: Study the inference and optimization on multiple interacting spreading processes under the supervisor of Prof. David Saad.
 
+  - title: Visiting student
+    company: KTH Royal Institute of Technology
+    company_url: ''
+    company_logo: ''
+    location: Stockhome, Sweden
+    date_start: '2018-01-10'
+    date_end: '2018-06-25'
+    description: Course project on Parallel Computing, Artificial Neural Networks and Deep Learning.
+
+  - title: Visiting student
+    company: Institute of Theoretical Physics, Chinese Academy of Sciences
+    company_url: ''
+    company_logo: ''
+    location: Beijing, China
+    date_start: '2017-06-01'
+    date_end: '2018-01-01'
+    description: Study low-rank approximation algorithms on tensor networks under the supervisor of Prof. Pan Zhang.
+
 design:
   columns: '2'
 ---
