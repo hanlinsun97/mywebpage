@@ -32,6 +32,12 @@ education:
     - course: BSc in Physics
       institution: University of Chinese Academy of Sciences
       year: 2019
+    - course: Visiting student
+      institution: KTH Royal Institute of Technology
+      year: 2018
+    - course: Visiting student
+      institution: Aston University
+      year: 2018
 
 
 # Social/Academic Networking
