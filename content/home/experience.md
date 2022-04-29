@@ -25,7 +25,7 @@ experience:
   - title: PhD researcher
     company: Queen Mary University of London
     company_url: ''
-    company_logo: org-gc
+    company_logo: ''
     location: London, United Kingdom
     date_start: '2019-09-01'
     date_end: ''
@@ -35,7 +35,7 @@ experience:
   - title: Visiting student
     company: Aston University
     company_url: ''
-    company_logo: org-x
+    company_logo: ''
     location: Birmingham, United Kingdom
     date_start: '2018-07-01'
     date_end: '2018-08-28'
