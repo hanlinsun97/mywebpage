@@ -47,7 +47,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:hanlin.sun@qmul.ac.uk'
+    link: '/#contact'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/sunhanlin151
