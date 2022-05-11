@@ -38,7 +38,7 @@ abstract: With the hit of new pandemic threats, scientific frameworks are needed
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 links:

@@ -1,23 +1,21 @@
 ---
-title: 'Universal nonlinear infection kernel from heterogeneous exposure on higher-order networks'
+title: 'Competition, Collaboration, and Optimization in Multiple Interacting Spreading Processes'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Guillaume St-Onge 
   - admin
-  - Antonie Allard
-  - Laurent Hébert-Dufresne
-  - Ginestra Bianconi
+  - David Saad
+  - Andrey Y. Lokhov
 
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2021-08-25T00:00:00Z'
-doi: 'https://doi.org/10.1103/PhysRevLett.127.158301'
+date: '2021-01-07T00:00:00Z'
+doi: 'https://doi.org/10.1103/PhysRevX.11.011048'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -29,21 +27,21 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Physical Review Letter*
-publication_short: In *Phys. Rev. Lett*
+publication: In *Physical Review X*
+publication_short: In *Phys. Rev. X*
 
-abstract: The collocation of individuals in different environments is an important prerequisite for exposure to infectious diseases on a social network. Standard epidemic models fail to capture the potential complexity of this scenario by (1) neglecting the higher-order structure of contacts that typically occur through environments like workplaces, restaurants, and households, and (2) assuming a linear relationship between the exposure to infected contacts and the risk of infection. Here, we leverage a hypergraph model to embrace the heterogeneity of environments and the heterogeneity of individual participation in these environments. We find that combining heterogeneous exposure with the concept of minimal infective dose induces a universal nonlinear relationship between infected contacts and infection risk. Under nonlinear infection kernels, conventional epidemic wisdom breaks down with the emergence of discontinuous transitions, superexponential spread, and hysteresis.
+abstract: Competition and collaboration are at the heart of multiagent probabilistic spreading processes. The battle for public opinion and competitive marketing campaigns are typical examples of the former, while the joint spread of multiple diseases such as HIV and tuberculosis demonstrates the latter. These spreads are influenced by the underlying network topology, the infection rates between network constituents, recovery rates, and, equally important, the interactions between the spreading processes themselves. Here, for the first time, we derive dynamic message-passing equations that provide an exact description of the dynamics of two, interacting, unidirectional spreading processes on tree graphs, and we develop systematic low-complexity models that predict the spread on general graphs. We also develop a theoretical framework for the optimal control of interacting spreading processes through optimized resource allocation under budget constraints and within a finite time window. Derived algorithms can be used to maximize the desired spread in the presence of a rival competitive process and to limit the spread through vaccination in the case of coupled infectious diseases. We demonstrate the efficacy of the framework and optimization method on both synthetic and real-world networks.
 # Summary. An optional shortened abstract.
 
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 links:
 - name: arxiv
-  url: https://arxiv.org/pdf/2101.07229.pdf
+  url: https://arxiv.org/abs/1905.04416
 url_pdf: ''
 url_code: ''
 url_dataset: ''
