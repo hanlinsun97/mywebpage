@@ -11,9 +11,9 @@ authors:
   - Alex Arenas
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+# author_notes:
+#   - 'Equal contribution'
+#   - 'Equal contribution'
 
 date: '2021-02-08T00:00:00Z'
 doi: 'https://doi.org/10.1103/PhysRevResearch.3.L012014'
@@ -42,8 +42,8 @@ featured: false
 
 # Custom links (uncomment lines below)
 # links:
-# - name: Custom Link
-#   url: http://example.org
+- name: Custom Link
+  url: http://example.org
 
 url_pdf: ''
 url_code: ''
@@ -76,7 +76,7 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
+<!-- 
 {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
@@ -85,4 +85,4 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
