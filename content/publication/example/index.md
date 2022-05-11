@@ -11,6 +11,9 @@ authors:
   - Alex Arenas
 
 # Author notes (optional)
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
 
 date: '2021-02-08T00:00:00Z'
 doi: 'https://doi.org/10.1103/PhysRevResearch.3.L012014'
@@ -35,12 +38,12 @@ abstract: With the hit of new pandemic threats, scientific frameworks are needed
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
-- name: arxiv
-  url: https://arxiv.org/abs/2007.05277
+# - name: Custom Link
+#   url: http://example.org
 
 url_pdf: ''
 url_code: ''
@@ -63,23 +66,23 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-# projects:
-#   - example
+projects:
+  - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-# slides: example
+slides: example
 ---
 
-<!-- {{% callout note %}}
+{{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
 {{% callout note %}}
 Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}} -->
+{{% /callout %}}
 
-<!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
