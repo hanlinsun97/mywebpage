@@ -28,7 +28,7 @@ education:
   courses:
     - course: PhD in Applied Mathematics
       institution: Queen Mary University of London
-      year: 2022
+      year: 2023
     - course: BSc in Physics
       institution: University of Chinese Academy of Sciences
       year: 2019
