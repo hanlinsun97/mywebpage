@@ -22,6 +22,7 @@ interests:
   - Message-passing algorithm
   - Hypergraph and simplicial complexes
   - Epidemic spreading
+  - Statistical Physics
 
 # Education to show in About widget
 education:
@@ -78,4 +79,4 @@ Hanlin’s research focuses on several aspects of dynamic processes on networks 
 
 Before joining Queen Mary, Hanlin studied physics at the University of Chinese Academy of Sciences, China (BSc). During his undergraduate study, he studied the inference and optimization on multiple interacting spreading processes under the supervisor of Prof. David Saad, and low-rank approximation algorithms on tensor networks under the supervisor of Prof. Pan Zhang.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.

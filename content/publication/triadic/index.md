@@ -37,7 +37,7 @@ abstract: Ecological, biochemical and neuronal networks are characterized by tri
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 links:
