@@ -1,14 +1,13 @@
 ---
-title: 'Universal nonlinear infection kernel from heterogeneous exposure on higher-order networks'
+title: 'Triadic interactions induce blinking and chaos in the connectivity of higher-order networks'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Guillaume St-Onge 
   - admin
-  - Antonie Allard
-  - Laurent Hébert-Dufresne
+  - Filippo Radicchi
+  - Juergen Kurths
   - Ginestra Bianconi
 
 # Author notes (optional)
@@ -29,8 +28,8 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: In *preprint*
-publication_short: In *preprint*
+publication: In *Preprint*
+publication_short: In *Preprint*
 
 abstract: Ecological, biochemical and neuronal networks are characterized by triadic interactions formed by one node regulating the interaction between two other nodes. However, little is known about the effect of triadic interactions on macroscopic network properties. Here, we show that the combination of positive and negative regulatory interactions turns percolation into a fully-fledged dynamical system where the giant connected component intermittently involves a different set of nodes, and the order parameter undergoes period doubling and a route to chaos. This phenomenon is captured by a theory validated by numerical simulations on both synthetic and real networks.
 # Summary. An optional shortened abstract.
@@ -43,7 +42,7 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 - name: arxiv
-  url: https://arxiv.org/pdf/2101.07229.pdf
+  url: https://arxiv.org/pdf/2204.13067.pdf
 url_pdf: ''
 url_code: ''
 url_dataset: ''
