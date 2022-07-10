@@ -75,8 +75,8 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Hanlin’s research focuses on several aspects of dynamic processes on networks and other structures with higher-order interactions, such as simplicial complexes and hypergraphs, under the supervision of Prof. Ginestra Bianconi. His current Ph.D. project aims to understand the critical properties of standard and higher-order percolation on networks and hypergraphs respectively, and how network topologies and geometries affect the robustness and other critical behaviors. 
+Hanlin is a Ph.D. student at Queen Mary University of London, working on network theory. His research focuses on several aspects of dynamic processes on networks and other structures with higher-order interactions, such as simplicial complexes and hypergraphs, under the supervision of Prof. Ginestra Bianconi. His current Ph.D. project aims to understand the critical properties of standard and higher-order percolation on networks and hypergraphs respectively, and how network topologies and geometries affect the robustness and other critical behaviors. 
 
-Before joining Queen Mary, Hanlin studied physics at the University of Chinese Academy of Sciences, China (BSc). During his undergraduate study, he studied the inference and optimization on multiple interacting spreading processes under the supervisor of Prof. David Saad, and low-rank approximation algorithms on tensor networks under the supervisor of Prof. Pan Zhang.
+Before joining Queen Mary, Hanlin studied physics at the University of Chinese Academy of Sciences, China (BSc). During his undergraduate study, he worked on the inference and optimization on multiple interacting spreading processes on networks under the supervisor of Prof. David Saad, Aston University, and low-rank approximation algorithms on tensor networks under the supervisor of Prof. Pan Zhang, Chinese Academy of Sciences
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
