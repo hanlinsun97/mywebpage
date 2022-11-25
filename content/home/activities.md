@@ -80,3 +80,9 @@ I have also given talks on other internal seminars:
 - 2022 Outstanding Teaching Assistant (Nomination), King's College London
 - 2021 [Press coverage](https://discover.lanl.gov/news/discover-disease-forecasts), *Competition and collaboration: Understanding interacting epidemics can unlock better disease forecasts, Los Alamos National Laboratory*
 - 2021 [Press coverage](https://www.discovermagazine.com/technology/competition-and-collaboration-understanding-interacting-epidemics-can-unlock),*Competition and Collaboration: Understanding Interacting Epidemics Can Unlock Better Disease Forecasts, Discover Magazine*
+
+## Referee and editorial activities
+I have been a reviewer for the following journals:
+*Physica A: Statistical Mechanics and its Applications*, *Communication Physics*, *Scientific Reports*, *New Journal of Physics*, *IEEE Transactions on Network Science and Engineering*, *Bioinformatics*, *Chaos, Solitons and Fractals*.
+
+Now I serve as a Guest Editor Assistant of the [Special Issue](https://www.mdpi.com/journal/entropy/special_issues/587BHCLBQQ) "Models, Topology and Inference of Multilayer and Higher-Order Networks" of *Entropy*.
