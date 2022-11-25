@@ -35,4 +35,6 @@ I have been a Graduate Teaching Assistant at King's College London for the follo
 ***
 I have been an organiser of the following events:
 - *[DERI PhD forum](https://www.qmul.ac.uk/deri/networks/deri-phd-forum-/)*
+  - A seminar at the Digital Environment Research Institute, Queen Mary University of London
 - *[NetPLACE](https://sites.google.com/view/netplace/)*
+  - A seminar of Network, Phd Life And ComplExity
