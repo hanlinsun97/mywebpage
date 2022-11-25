@@ -59,7 +59,7 @@ I have given contributed and invited talks on the following conferences:
 
 I have also given talks on other internal seminars:
 - 2022 **[Complex Systems Seminar](https://www.qmul.ac.uk/maths/research/seminars/complex-systems/), Queen Mary University of London**
-  - <font size=1> Invited talk. *Title: Mathematics in epidemic spreading: from containment measures to critical behaviours* </font>
+  - <font size=3> Invited talk. *Title: Mathematics in epidemic spreading: from containment measures to critical behaviours* </font>
 - 2022 **Postgraduate Research Day 2022, Queen Mary University of London**
   - Talk. *Title:Triadic interactions induce blinking and chaos in connectivity of higher-order networks*
 - 2022 **Internal seminar at Aston University**
