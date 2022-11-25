@@ -68,3 +68,15 @@ I have also given talks on other internal seminars:
   - Poster presentation. *Title: A message-passing approach to epidemic tracing and mitigation with apps*
 - 2020 **Queen Mary Internal Postgraduate Seminar (QuIPS)**
   - Invited talk. *Title: A message-passing approach to epidemic tracing and mitigation with apps*
+
+## Scholarships and Grants
+- 2022 Small Grant, The Institute of Mathematics and its application, £600
+- 2022 Student Grants, Conference on Complex Systems 2022, Fee waiver (equivalently €340)
+- 2022 Research Support Funding, QMUL, £1000
+- 2021 Travel Grant Complex Systems \& Networks Group, QMUL, £700
+- 2020 Travel Grant Complex Systems \& Networks Group, QMUL, £300
+
+## Awards and Achievements
+- 2022 Outstanding Teaching Assistant (Nomination), King's College London
+- 2021 [Press coverage](https://discover.lanl.gov/news/discover-disease-forecasts), *Competition and collaboration: Understanding interacting epidemics can unlock better disease forecasts, Los Alamos National Laboratory*
+- 2021 [Press coverage](https://www.discovermagazine.com/technology/competition-and-collaboration-understanding-interacting-epidemics-can-unlock),*Competition and collaboration: Understanding interacting epidemics can unlock better disease forecasts, Los Alamos National Laboratory*
