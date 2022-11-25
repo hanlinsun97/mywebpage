@@ -38,3 +38,21 @@ I have been an organiser of the following events:
   - A seminar at the Digital Environment Research Institute, Queen Mary University of London
 - *[NetPLACE](https://sites.google.com/view/netplace/)*
   - A seminar of Network, Phd Life And ComplExity
+
+I have given contributed and invited talks on the following conferences:
+- 2022 Conference on Complex Systems 2022 (Palma de Mallorca, Spain)
+  - Contributed talk. *Title:Triadic interactions induce blinking and chaos in connectivity of higher-order networks*
+- 2022 IMA Conference on The Mathematical Challenges of Big Data (Oxford, United Kingdom)
+  - Contributed talk. *Title: A message-passing approach to epidemic tracing and mitigation with apps*
+- 2022 Satellite @ NetSci2022: Signed Networks and their Applications (Online)
+  - Invited talk. *Title:Title:Triadic interactions induce blinking and chaos in connectivity of higher-order networks*
+- 2022 Satellite @ NetSci2022: Higher-order Topology & Dynamics in Complex Networks (Online)
+  - Contributed talk. *Title: Higher-order percolation processes on multiplex hypergraphs*
+- 2021 Conference on Complex System 2021 (Lyon, France)
+  - Contributed talk. *Title: Higher-order percolation processes on multiplex hypergraphs*
+- 2021 Satellite @ NetSci 2021: TopoNet2021 (Online)
+  - Contributed talk. *Title: A message-passing approach to epidemic tracing and mitigation with apps*
+- 2021 The 46th Conference of the Middle European Cooperation in Statistical Physics (Online)
+  - Contributed talk. *Title: A message-passing approach to epidemic tracing and mitigation with apps*
+- 2020 Conference on Complex Systems 2020 (Online)
+  - Contributed talk. *Title: A message-passing approach to epidemic tracing and mitigation with apps*
