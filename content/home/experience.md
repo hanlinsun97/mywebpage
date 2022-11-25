@@ -30,7 +30,7 @@ experience:
     date_start: '2019-09-01'
     date_end: ''
     description: |2-
-        PhD in Applied Mathematics. Study percolation on networks and higher-order structures under the supervision of Prof. Ginestra Bianconi
+        PhD in Applied Mathematics. Study percolation on networks and higher-order structures under the supervision of Prof. Ginestra Bianconi.
 
   - title: Visiting student
     company: Aston University

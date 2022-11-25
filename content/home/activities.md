@@ -35,9 +35,9 @@ I have been a Graduate Teaching Assistant at King's College London for the follo
 ***
 I have been an organiser of the following events:
 - *[DERI PhD forum](https://www.qmul.ac.uk/deri/networks/deri-phd-forum-/)*
-  - A seminar at the Digital Environment Research Institute, Queen Mary University of London
+  - <font size=3> A seminar at the Digital Environment Research Institute, Queen Mary University of London </font>
 - *[NetPLACE](https://sites.google.com/view/netplace/)*
-  - A seminar of Network, Phd Life And ComplExity
+  - <font size=3> A seminar of Network, Phd Life And ComplExity </font>
 
 I have given contributed and invited talks on the following conferences:
 - 2022 **Conference on Complex Systems 2022 (Palma de Mallorca, Spain)**
