@@ -59,6 +59,15 @@ experience:
     date_end: '2018-01-01'
     description: Study low-rank approximation algorithms on tensor networks under the supervision of Prof. Pan Zhang.
 
+  - title: BSc in Physics
+    company: University of Chinese Academy of Sciences
+    company_url: ''
+    company_logo: ''
+    location: Beijing, China
+    date_start: '2015-09-01'
+    date_end: '2019-07-01'
+
+  
 design:
   columns: '2'
 ---
