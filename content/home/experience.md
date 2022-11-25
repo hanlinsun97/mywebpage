@@ -30,7 +30,7 @@ experience:
     date_start: '2019-09-01'
     date_end: ''
     description: |2-
-        PhD in Applied Mathematics. Study percolation on networks and higher-order structures.
+        PhD in Applied Mathematics. Study percolation on networks and higher-order structures under the supervision of Prof. Ginestra Bianconi
 
   - title: Visiting student
     company: Aston University
@@ -39,7 +39,7 @@ experience:
     location: Birmingham, United Kingdom
     date_start: '2018-07-01'
     date_end: '2018-08-28'
-    description: Study the inference and optimization on multiple interacting spreading processes under the supervisor of Prof. David Saad.
+    description: Study the inference and optimization on multiple interacting spreading processes under the supervision of Prof. David Saad.
 
   - title: Visiting student
     company: KTH Royal Institute of Technology
@@ -57,7 +57,7 @@ experience:
     location: Beijing, China
     date_start: '2017-06-01'
     date_end: '2018-01-01'
-    description: Study low-rank approximation algorithms on tensor networks under the supervisor of Prof. Pan Zhang.
+    description: Study low-rank approximation algorithms on tensor networks under the supervision of Prof. Pan Zhang.
 
 design:
   columns: '2'
