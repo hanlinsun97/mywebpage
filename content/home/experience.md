@@ -45,7 +45,7 @@ experience:
     company: KTH Royal Institute of Technology
     company_url: ''
     company_logo: ''
-    location: Stockhome, Sweden
+    location: Stockholm, Sweden
     date_start: '2018-01-10'
     date_end: '2018-06-25'
     description: Course project on Parallel Computing, Artificial Neural Networks and Deep Learning.
