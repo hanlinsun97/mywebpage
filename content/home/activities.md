@@ -34,5 +34,5 @@ I have been a Graduate Teaching Assistant at King's College London for the follo
 ## Conferences, Schools and Events
 ***
 I have been an organiser of the following events:
-- *[DERI PhD forum]*(https://www.qmul.ac.uk/deri/networks/deri-phd-forum-/)
-- *[NetPLACE]*(https://sites.google.com/view/netplace/)
+- *[DERI PhD forum](https://www.qmul.ac.uk/deri/networks/deri-phd-forum-/)*
+- *[NetPLACE](https://sites.google.com/view/netplace/)*
