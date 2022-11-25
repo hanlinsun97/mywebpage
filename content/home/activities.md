@@ -79,4 +79,4 @@ I have also given talks on other internal seminars:
 ## Awards and Achievements
 - 2022 Outstanding Teaching Assistant (Nomination), King's College London
 - 2021 [Press coverage](https://discover.lanl.gov/news/discover-disease-forecasts), *Competition and collaboration: Understanding interacting epidemics can unlock better disease forecasts, Los Alamos National Laboratory*
-- 2021 [Press coverage](https://www.discovermagazine.com/technology/competition-and-collaboration-understanding-interacting-epidemics-can-unlock),*Competition and collaboration: Understanding interacting epidemics can unlock better disease forecasts, Los Alamos National Laboratory*
+- 2021 [Press coverage](https://www.discovermagazine.com/technology/competition-and-collaboration-understanding-interacting-epidemics-can-unlock),*Competition and Collaboration: Understanding Interacting Epidemics Can Unlock Better Disease Forecasts, Discover Magazine*
