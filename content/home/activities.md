@@ -24,3 +24,15 @@ I have been a Teaching Associate at Queen Mary University of London for the foll
 - **Calculus I**, *Level 4 module, Sep 2020-Dec 2020*
 - **Linear Algebra I**, *Level 5 module, Sep 2022-Dec 2022*
 - **Vectors and Matrices**, *Level 4 module, Jan 2020-Apr 2020*
+
+I have been a Graduate Teaching Assistant at King's College London for the following course:
+- **Calculus II**, *Level 4 module, Jan 2023-Apr 2023*
+- **Theory of Complex Networks**, *Level 7 module, Sep 2022-Dec 2022*
+- **Linear Algebra and Geometry II**, *Level 5 module, Jan 2022-Apr 2022*
+- **Calculus I**, *Level 4 module, Sep 2021-Dec 2021*
+
+## Conferences, Schools and Events
+***
+I have been an organiser of the following events:
+- *[DERI PhD forum]*(https://www.qmul.ac.uk/deri/networks/deri-phd-forum-/)
+- *[NetPLACE]*(https://sites.google.com/view/netplace/)
