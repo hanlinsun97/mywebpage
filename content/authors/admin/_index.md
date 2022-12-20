@@ -30,16 +30,16 @@ interests:
 education:
   courses:
     - course: PhD in Applied Mathematics
-      institution: Queen Mary University of London
+      institution: Queen Mary University of London, UK
       year: 2023
     - course: BSc in Physics
-      institution: University of Chinese Academy of Sciences
+      institution: University of Chinese Academy of Sciences, China
       year: 2019
     - course: Visiting student
-      institution: KTH Royal Institute of Technology
+      institution: KTH Royal Institute of Technology, Sweden
       year: 2018
     - course: Visiting student
-      institution: Aston University
+      institution: Aston University, UK
       year: 2018
 
 
