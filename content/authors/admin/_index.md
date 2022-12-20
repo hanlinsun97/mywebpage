@@ -18,11 +18,13 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - Percolation
+  - Percolation theory
   - Message-passing algorithm
-  - Hypergraph and simplicial complexes
+  - Hypergraphs and simplicial complexes
   - Epidemic spreading
   - Statistical Physics
+  - Inference and Optimization on networks
+  - Multilayer networks
 
 # Education to show in About widget
 education:
