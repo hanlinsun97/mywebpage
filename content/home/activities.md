@@ -17,6 +17,8 @@ design:
 ## Teaching
 ***
 I have been a Teaching Associate at Queen Mary University of London for the following course:
+- **Vectors and Matrices**, *Level 4 module, Jan 2023-Apr 2023*
+- **Calculus II**, *Level 4 module, Jan 2023-Apr 2023*
 - **Calculus I**, *Level 4 module, Sep 2022-Dec 2022*
 - **Calculus I**, *Level 4 module, Sep 2021-Dec 2021*
 - **Machine Learning with Python**, *Level 7 module, Jun 2021-Aug 2021*
@@ -83,6 +85,6 @@ I have also given talks on other internal seminars:
 
 ## Referee and editorial activities
 I have been a reviewer for the following journals:
-*Physica A: Statistical Mechanics and its Applications*, *Communication Physics*, *Scientific Reports*, *New Journal of Physics*, *IEEE Transactions on Network Science and Engineering*, *Bioinformatics*, *Chaos Solitons and Fractals*.
+*Physica A: Statistical Mechanics and its Applications*, *Communication Physics*, *Scientific Reports*, *New Journal of Physics*, *IEEE Transactions on Network Science and Engineering*, *Bioinformatics*, *Chaos Solitons and Fractals*, *Journal of Physics A: Mathematical and Theoretical*.
 
-Now I serve as a Guest Editor Assistant of the [Special Issue](https://www.mdpi.com/journal/entropy/special_issues/587BHCLBQQ) "Models, Topology and Inference of Multilayer and Higher-Order Networks" of *Entropy*.
+Now I serve as a Guest Editor Assistant of the [Special Issue](https://www.mdpi.com/journal/entropy/special_issues/587BHCLBQQ) "Models, Topology and Inference of Multilayer and Higher-Order Networks" in *Entropy*.
