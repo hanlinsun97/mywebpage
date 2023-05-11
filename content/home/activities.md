@@ -36,12 +36,16 @@ I have been a Graduate Teaching Assistant at King's College London for the follo
 ## Conferences, Schools and Events
 ***
 I have been an organiser of the following events:
+- *[NetPLACE @ Netsci](https://netsci2023.wixsite.com/netsci2023/program)*
+  - <font size=3> Two panel discussions at NetSci2023 on some common concerns about academic writing and mental health.  </font> 
 - *[DERI PhD forum](https://www.qmul.ac.uk/deri/networks/deri-phd-forum-/)*
   - <font size=3> A seminar at the Digital Environment Research Institute, Queen Mary University of London </font>
 - *[NetPLACE](https://sites.google.com/view/netplace/)*
   - <font size=3> A seminar of Network, Phd Life And ComplExity </font>
 
 I have given contributed and invited talks on the following conferences:
+- 2022 **[NetSci 2023](https://netsci2023.wixsite.com/netsci2023/program) (Vienna, Austria)**
+  - <font size=3> Contributed talk. *Title:The dynamic nature of percolation on networks with triadic interactions* </font>
 - 2022 **Conference on Complex Systems 2022 (Palma de Mallorca, Spain)**
   - <font size=3> Contributed talk. *Title:Triadic interactions induce blinking and chaos in connectivity of higher-order networks* </font>
 - 2022 **IMA Conference on The Mathematical Challenges of Big Data (Oxford, United Kingdom)**
@@ -60,6 +64,10 @@ I have given contributed and invited talks on the following conferences:
   - <font size=3> Contributed talk. *Title: A message-passing approach to epidemic tracing and mitigation with apps* </font>
 
 I have also given talks on other internal seminars:
+- 2023 **NetPLACE seminar**
+  - <font size=3> Invited talk. *Title: A message-passing approach to epidemic tracing and mitigation with apps* </font>
+- 2023 **etworks and Time Workshop, Queen Mary University of London**
+  - <font size=3> Contributed talk. *Title: Triadic interactions induce blinking and chaos in connectivity of higher-order networks* </font>
 - 2022 **[Complex Systems Seminar](https://www.qmul.ac.uk/maths/research/seminars/complex-systems/), Queen Mary University of London**
   - <font size=3> Invited talk. *Title: Mathematics in epidemic spreading: from containment measures to critical behaviours* </font>
 - 2022 **Postgraduate Research Day 2022, Queen Mary University of London**
@@ -85,6 +93,6 @@ I have also given talks on other internal seminars:
 
 ## Referee and editorial activities
 I have been a reviewer for the following journals:
-*Physica A: Statistical Mechanics and its Applications*, *Communication Physics*, *Scientific Reports*, *New Journal of Physics*, *IEEE Transactions on Network Science and Engineering*, *Bioinformatics*, *Chaos Solitons and Fractals*, *Journal of Physics A: Mathematical and Theoretical*.
+*Physica A: Statistical Mechanics and its Applications*, *Communication Physics*, *Scientific Reports*, *New Journal of Physics*, *IEEE Transactions on Network Science and Engineering*, *Bioinformatics*, *Chaos Solitons and Fractals*, *Journal of Physics A: Mathematical and Theoretical*, *Chaos: An Interdisciplinary journal of Nonlinear Science*
 
 Now I serve as a Guest Editor Assistant of the [Special Issue](https://www.mdpi.com/journal/entropy/special_issues/587BHCLBQQ) "Models, Topology and Inference of Multilayer and Higher-Order Networks" in *Entropy*.
