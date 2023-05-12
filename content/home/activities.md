@@ -66,7 +66,7 @@ I have given contributed and invited talks on the following conferences:
 I have also given talks on other internal seminars:
 - 2023 **NetPLACE seminar**
   - <font size=3> Invited talk. *Title: A message-passing approach to epidemic tracing and mitigation with apps* </font>
-- 2023 **etworks and Time Workshop, Queen Mary University of London**
+- 2023 **Networks and Time Workshop, Queen Mary University of London**
   - <font size=3> Contributed talk. *Title: Triadic interactions induce blinking and chaos in connectivity of higher-order networks* </font>
 - 2022 **[Complex Systems Seminar](https://www.qmul.ac.uk/maths/research/seminars/complex-systems/), Queen Mary University of London**
   - <font size=3> Invited talk. *Title: Mathematics in epidemic spreading: from containment measures to critical behaviours* </font>
