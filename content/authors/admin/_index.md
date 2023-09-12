@@ -6,12 +6,12 @@ title: Hanlin Sun
 superuser: true
 
 # Role/position/tagline
-role: PhD candidate in Applied Mathematics
+role: Wallenberg Initiative on Networks and Quantum Information (WINQ) Research Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Queen Mary University of London
-    url: https://www.qmul.ac.uk
+  - name: NORDITA, Stockholm University and KTH Royal Institute of Technologty
+    url: https://nordita.org/
 
 # Short bio (displayed in user profile at end of posts)
 
@@ -50,7 +50,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:hanlin.sun@qmul.ac.uk
+    link: mailto:hanlin.sun@su.se
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/sunhanlin151
@@ -77,12 +77,14 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'hanlin.sun@qmul.ac.uk'
+email: 'hanlin.sun@su.se'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Hanlin is a final year Ph.D. student at Queen Mary University of London, working on network theory. His research focuses on several aspects of dynamic processes on networks and other structures with higher-order interactions, such as simplicial complexes and hypergraphs, under the supervision of Prof. Ginestra Bianconi. His current Ph.D. project aims to understand the critical properties of standard and higher-order percolation on networks and hypergraphs respectively, and how network topologies and geometries affect the robustness and other critical behaviors. 
+Hanlin is a research fellow at NORDITA, Stockholm University and KTH Royal Institute of Technology, Sweden funded by Wallenberg Initiative on Networks and Quantum Information (WINQ). He is interested in the dynamic processes on networks and higher-order network, inference and optimization on networks, as well as the interdisplinary area between network science and quantum theory.
+
+Hanlin holds a Ph.D. in Applied Mathematics. During his PhD at Queen Mary University of London, he worked on network theory. His research focuses on several aspects of dynamic processes on networks and other structures with higher-order interactions, such as simplicial complexes and hypergraphs, under the supervision of Prof. Ginestra Bianconi. 
 
 Before joining Queen Mary, Hanlin studied physics at the University of Chinese Academy of Sciences, China (BSc). During his undergraduate study, he worked on the inference and optimization on multiple interacting spreading processes on networks under the supervisor of Prof. David Saad, Aston University, and low-rank approximation algorithms on tensor networks under the supervisor of Prof. Pan Zhang, Institute of Theoretical Physics, Chinese Academy of Sciences.
 

@@ -22,13 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
+  - title: Research fellow
+    company: NORDITA, Stockholm University and KTH Royal Institute of Technology
+    company_url: 'https://nordita.org/'
+    company_logo: ''
+    location: Stockholm, Sweden
+    date_start: '2023-09-01'
+    date_end: ''
+    description: Research fellow funded by The Wallenberg Initiative on Networks and Quantum Information (WINQ).
+
   - title: PhD researcher
     company: Queen Mary University of London
     company_url: ''
     company_logo: ''
     location: London, United Kingdom
     date_start: '2019-09-01'
-    date_end: ''
+    date_end: '2023-08-31'
     description: |2-
         PhD in Applied Mathematics. Study percolation on networks and higher-order structures under the supervision of Prof. Ginestra Bianconi.
 
