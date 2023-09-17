@@ -26,7 +26,7 @@ experience:
   - title: Research fellow
     company: NORDITA, Stockholm University and KTH Royal Institute of Technology
     company_url: 'https://nordita.org/'
-    company_logo: 'https://en.wikipedia.org/wiki/File:Nordita_Logo.png'
+    company_logo: ''
     location: Stockholm, Sweden
     date_start: '2023-09-01'
     date_end: ''
