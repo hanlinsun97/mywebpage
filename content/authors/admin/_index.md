@@ -77,12 +77,12 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'hanlin.sun@su.se'
+email: 'hanlinsun.work@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Hanlin is a research fellow at NORDITA, Stockholm University and KTH Royal Institute of Technology, Sweden funded by Wallenberg Initiative on Networks and Quantum Information (WINQ). He is interested in the dynamic processes on networks and higher-order network, inference and optimization on networks, as well as the interdisplinary area between network science and quantum theory
+Hanlin is a research fellow at NORDITA, Stockholm University and KTH Royal Institute of Technology, Sweden funded by Wallenberg Initiative on Networks and Quantum Information (WINQ). He is interested in the dynamic processes on networks and higher-order network, inference and optimization on networks, as well as the interdisplinary area between network science and neuroscience.
 
 Hanlin holds a Ph.D. in Applied Mathematics. During his PhD at Queen Mary University of London, he worked on network theory. His research focuses on several aspects of dynamic processes on networks and other structures with higher-order interactions, such as simplicial complexes and hypergraphs, under the supervision of Prof. Ginestra Bianconi. 
 
