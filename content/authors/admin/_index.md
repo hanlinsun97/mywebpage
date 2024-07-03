@@ -50,7 +50,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:hanlin.sun@su.se
+    link: mailto:hanlinsun.work@gmail.com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/sunhanlin151
