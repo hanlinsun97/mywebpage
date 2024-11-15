@@ -12,6 +12,8 @@ weight: 60
 title: Activities
 design:
   column: "1"
+  background:
+    text_size: 'normal'
   
 ---
 ## Teaching
