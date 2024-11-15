@@ -38,7 +38,7 @@ I have been a Graduate Teaching Assistant at King's College London for the follo
 ***
 I have been an organiser of the following events:
 - *[WINQ program on Complex and Quantum Systems](https://indico.fysik.su.se/event/8139/)*
-  - <font size=13> A one-week workshop at NORDITA focusing on the Dynamics and Topology of Complex Network Systems.  </font> 
+  - <font size=3> A one-week workshop at NORDITA focusing on the Dynamics and Topology of Complex Network Systems.  </font> 
 - *[NetPLACE @ NetSciX 2024](https://sites.google.com/view/netplace/panelsconferences/netscix2024)*
   -  <font size=3> Panel discussions at NetSciX 2024 on scientific communication.
 - *[NetPLACE @ NetSci 2023](https://netsci2023.wixsite.com/netsci2023/program)*
