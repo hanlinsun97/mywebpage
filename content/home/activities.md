@@ -109,12 +109,10 @@ I have also given talks on other internal seminars:
 - *2020 Queen Mary Internal Postgraduate Seminar (QuIPS)*  
   <font size=3><b>Invited talk.</b> *Title: A message-passing approach to epidemic tracing and mitigation with apps*</font>
 
-
-
 ## Scholarships and Grants
 ***
- -2024 Visiting Research Scholar, AccelNet/MultiNet Exchange program, $8000
- -2023 INI Network Support funding, Isaac Newton Institute for Mathematical Sciences, £5000 (with Silvia Rognone, Gabriele Di Bona, Annalisa Caligiuri)
+- 2024 Visiting Research Scholar, AccelNet/MultiNet Exchange program, $8000
+- 2023 INI Network Support funding, Isaac Newton Institute for Mathematical Sciences, £5000 (with Silvia Rognone, Gabriele Di Bona, Annalisa Caligiuri)
 - 2022 Small Grant, The Institute of Mathematics and its application, £600
 - 2022 Student Grants, Conference on Complex Systems 2022, Fee waiver (equivalently €340)
 - 2022 Research Support Funding, QMUL, £1000
