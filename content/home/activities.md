@@ -47,17 +47,6 @@ I have been an organiser of the following events:
   - <font size=3> A seminar at the Digital Environment Research Institute, Queen Mary University of London </font>
 - *[NetPlace](https://netplace.site)*
   - <font size=3> A seminar of Network, Phd Life And ComplExity </font>
-<!-- - *[WINQ program on Complex and Quantum Systems](https://indico.fysik.su.se/event/8139/)*
-  - <font size=3> A one-week workshop at NORDITA focusing on the Dynamics and Topology of Complex Network Systems.  </font> 
-- *[NetPLACE @ NetSciX 2024](https://sites.google.com/view/netplace/panelsconferences/netscix2024)*
-  -  <font size=3> Panel discussions at NetSciX 2024 on scientific communication.
-- *[NetPLACE @ NetSci 2023](https://netsci2023.wixsite.com/netsci2023/program)*
-  - <font size=3> Two panel discussions at NetSci 2023 on some common concerns about academic writing and mental health.  </font> 
-- *[DERI PhD forum](https://www.qmul.ac.uk/deri/networks/deri-phd-forum-/)*
-  - <font size=3> A seminar at the Digital Environment Research Institute, Queen Mary University of London </font>
-- *[NetPlace](https://netplace.site)*
-  - <font size=3> A seminar of Network, Phd Life And ComplExity </font> -->
-<!-- 
 
 I have given contributed and invited talks on the following conferences:
 - *2025 International Workshop “Higher-order interactions: mechanisms, behaviors, and networks” (Erice, Italy)*  
@@ -69,52 +58,52 @@ I have given contributed and invited talks on the following conferences:
 - *2024 [1st British NetSci Symposium](https://www.netsci.uk/program-31th-may.html) (London, UK)*  
   - <font size=3>Contributed talk. *Title: Triadic percolation induces dynamical topological patterns in higher-order networks*</font>
 - *2024 [APS March Meeting 2024](https://march.aps.org/) (Minneapolis, United States)*  
-  <font size=3>Contributed talk. *Title: Network science Ising state of matter*</font>
+  - <font size=3>Contributed talk. *Title: Network science Ising state of matter*</font>
 - *2023 [CCS/Italy 2023](https://italy.cssociety.org/index.php/2023/05/23/ccs-italy-conference-2023/) (Naples, Italy)*  
-  <font size=3>Contributed talk. *Title: The dynamic nature of percolation on networks with triadic interactions*</font>
+  - <font size=3>Contributed talk. *Title: The dynamic nature of percolation on networks with triadic interactions*</font>
 - *2023 [NetSci 2023](https://netsci2023.wixsite.com/netsci2023) (Vienna, Austria)*  
-  <font size=3>Contributed talk. *Title: The dynamic nature of percolation on networks with triadic interactions*</font>
+  - <font size=3>Contributed talk. *Title: The dynamic nature of percolation on networks with triadic interactions*</font>
 - *2022 [Conference on Complex Systems 2022](https://www.ccs2022.org/) (Palma de Mallorca, Spain)*  
-  <font size=3>Contributed talk. *Title: Triadic interactions induce blinking and chaos in connectivity of higher-order networks*</font>
+  - <font size=3>Contributed talk. *Title: Triadic interactions induce blinking and chaos in connectivity of higher-order networks*</font>
 - *2022 [4th IMA Conference on The Mathematical Challenges of Big Data](https://ima.org.uk/17625/4th-ima-conference-on-the-mathematical-challenges-of-big-data/) (Oxford, United Kingdom)*  
-  <font size=3>Contributed talk. *Title: A message-passing approach to epidemic tracing and mitigation with apps*</font>
+  - <font size=3>Contributed talk. *Title: A message-passing approach to epidemic tracing and mitigation with apps*</font>
 - *2022 Satellite @ [NetSci2022: Signed Networks and their Applications](https://sites.google.com/view/signednetworkssatellite/home) (Online)*  
-  <font size=3><b>Invited talk.</b> *Title: Triadic interactions induce blinking and chaos in connectivity of higher-order networks*</font>
+  - <font size=3><b>Invited talk.</b> *Title: Triadic interactions induce blinking and chaos in connectivity of higher-order networks*</font>
 - *2022 Satellite @ [NetSci2022: Higher-order Topology & Dynamics in Complex Networks](http://www-f1.ijs.si/~tadic/Workshops/NetSci22_ssHOTDyn/) (Online)*  
-  <font size=3>Contributed talk. *Title: Higher-order percolation processes on multiplex hypergraphs*</font>
+  - <font size=3>Contributed talk. *Title: Higher-order percolation processes on multiplex hypergraphs*</font>
 - *2021 [Conference on Complex Systems 2021](https://ccs2021.univ-lyon1.fr) (Lyon, France)*  
-  <font size=3>Contributed talk. *Title: Higher-order percolation processes on multiplex hypergraphs*</font>
+  - <font size=3>Contributed talk. *Title: Higher-order percolation processes on multiplex hypergraphs*</font>
 - *2021 Satellite @ [NetSci 2021: TopoNet2021](https://sites.google.com/view/toponets2021/home-page) (Online)*  
-  <font size=3>Contributed talk. *Title: Higher-order percolation processes on multiplex hypergraphs*</font>
+  - <font size=3>Contributed talk. *Title: Higher-order percolation processes on multiplex hypergraphs*</font>
 - *2021 [46th Conference of the Middle European Cooperation in Statistical Physics](https://meco46.sciencesconf.org/) (Online)*  
-  <font size=3>Contributed talk. *Title: A message-passing approach to epidemic tracing and mitigation with apps*</font>
+  - <font size=3>Contributed talk. *Title: A message-passing approach to epidemic tracing and mitigation with apps*</font>
 - *2020 [Conference on Complex Systems 2020](http://ccs2020.web.auth.gr/) (Online)*  
-  <font size=3>Contributed talk. *Title: A message-passing approach to epidemic tracing and mitigation with apps*</font> -->
+  - <font size=3>Contributed talk. *Title: A message-passing approach to epidemic tracing and mitigation with apps*</font> -->
 
 I have also given talks on other internal seminars:
 
 -  *2024 Group Seminar, Carlos I Institute of Theoretical and Computational Physics, University of Granada*  
-  <font size=3><b>Invited talk.</b> *Title: Triadic percolation induces dynamical topological patterns in higher-order networks*</font>
+  - <font size=3><b>Invited talk.</b> *Title: Triadic percolation induces dynamical topological patterns in higher-order networks*</font>
 - *2023 Applied CATS Seminar, KTH (Stockholm, Sweden)*  
-  <font size=3><b>Invited talk.</b> *Title: Network science Ising states of matter*</font>
+  - <font size=3><b>Invited talk.</b> *Title: Network science Ising states of matter*</font>
 - *2023 Internal Seminar, Institute of Theoretical Physics, Chinese Academy of Sciences*  
-  <font size=3><b>Invited talk.</b> *Title: The dynamic nature of percolation on networks with triadic interactions*</font>
+  - <font size=3><b>Invited talk.</b> *Title: The dynamic nature of percolation on networks with triadic interactions*</font>
 - *2023 Internal Seminar, Aston University*  
-  <font size=3><b>Invited talk.</b> *Title: The dynamic nature of percolation on networks with triadic interactions*</font>
+  - <font size=3><b>Invited talk.</b> *Title: The dynamic nature of percolation on networks with triadic interactions*</font>
 - *2023 [NetPLACE Seminar](https://sites.google.com/view/netplace/)*  
-  <font size=3><b>Invited talk.</b> *Title: Message-passing approach to epidemic tracing and mitigation with apps*</font>
+  - <font size=3><b>Invited talk.</b> *Title: Message-passing approach to epidemic tracing and mitigation with apps*</font>
 - *2023 [Networks and Time Workshop](https://www.monmeetings.org/time_net/), Queen Mary University of London*  
-  <font size=3>Contributed talk. *Title: Triadic interactions induce blinking and chaos in connectivity of higher-order networks*</font>
+  - <font size=3>Contributed talk. *Title: Triadic interactions induce blinking and chaos in connectivity of higher-order networks*</font>
 - *2022 [Complex Systems Seminar](https://www.qmul.ac.uk/maths/research/seminars/complex-systems/), Queen Mary University of London*  
-  <font size=3><b>Invited talk.</b> *Title: Mathematics in epidemic spreading: from containment measures to critical behaviours*</font>
+  - <font size=3><b>Invited talk.</b> *Title: Mathematics in epidemic spreading: from containment measures to critical behaviours*</font>
 - *2022 Postgraduate Research Day 2022, Queen Mary University of London*  
-  <font size=3>Talk. *Title: Triadic interactions induce blinking and chaos in connectivity of higher-order networks*</font>
+  - <font size=3>Talk. *Title: Triadic interactions induce blinking and chaos in connectivity of higher-order networks*</font>
 - *2022 Internal Seminar, Aston University*  
-  <font size=3><b>Invited talk.</b> *Title: Mathematics in epidemic spreading: from containment measures to critical behaviours*</font>
+  - <font size=3><b>Invited talk.</b> *Title: Mathematics in epidemic spreading: from containment measures to critical behaviours*</font>
 - *2021 Postgraduate Research Day 2021, Queen Mary University of London*  
-  <font size=3>Poster presentation. *Title: A message-passing approach to epidemic tracing and mitigation with apps*</font>
+  - <font size=3>Poster presentation. *Title: A message-passing approach to epidemic tracing and mitigation with apps*</font>
 - *2020 Queen Mary Internal Postgraduate Seminar (QuIPS)*  
-  <font size=3><b>Invited talk.</b> *Title: A message-passing approach to epidemic tracing and mitigation with apps*</font>
+  - <font size=3><b>Invited talk.</b> *Title: A message-passing approach to epidemic tracing and mitigation with apps*</font>
 
 ## Scholarships and Grants
 ***
