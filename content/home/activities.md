@@ -38,7 +38,7 @@ I have been a Graduate Teaching Assistant at King's College London for the follo
 ***
 I have been an organiser of the following events:
 - *[WINQ program on Complex and Quantum Systems](https://indico.fysik.su.se/event/8139/)*
-  - <font size=3> A one-week workshop at NORDITA focusing on the Dynamics and Topology of Complex Network Systems.  </font> 
+  - <font size=13> A one-week workshop at NORDITA focusing on the Dynamics and Topology of Complex Network Systems.  </font> 
 - *[NetPLACE @ NetSciX 2024](https://sites.google.com/view/netplace/panelsconferences/netscix2024)*
   -  <font size=3> Panel discussions at NetSciX 2024 on scientific communication.
 - *[NetPLACE @ NetSci 2023](https://netsci2023.wixsite.com/netsci2023/program)*
@@ -51,7 +51,7 @@ I have been an organiser of the following events:
 I have given contributed and invited talks on the following conferences:
 
 - *2025 International Workshop “Higher-order interactions: mechanisms, behaviors, and networks” (Erice, Italy)*  
-  <font size=9><b>Invited plenary lecturer.</b></font>
+  <font size=3><b>Invited plenary lecturer.</b></font>
 - *2024 [Workshop "Quantitative Methods for Dynamics on Networks"](https://web.cvent.com/event/f7ca64bc-7839-4911-bf0b-f37522c84809/summary), Los Alamos National Laboratory (Los Alamos, US]*  
   <font size=3><b>Invited talk.</b> *Title: The dynamic nature of percolation on networks with triadic interactions*</font>
 - *2024 [Isaac Newton Institute Satellite Programme on “Hypergraphs: theory and applications”](https://www.newton.ac.uk/event/hta/) (London, UK)*
