@@ -51,13 +51,13 @@ I have been an organiser of the following events:
 I have given contributed and invited talks on the following conferences:
 
 - *2025 International Workshop “Higher-order interactions: mechanisms, behaviors, and networks” (Erice, Italy)*  
-  <font size=3><b>Invited plenary lecturer.</b></font>
+  - <font size=3><b>Invited plenary lecturer.</b></font>
 - *2024 [Workshop "Quantitative Methods for Dynamics on Networks"](https://web.cvent.com/event/f7ca64bc-7839-4911-bf0b-f37522c84809/summary), Los Alamos National Laboratory (Los Alamos, US]*  
-  <font size=3><b>Invited talk.</b> *Title: The dynamic nature of percolation on networks with triadic interactions*</font>
+  - <font size=3><b>Invited talk.</b> *Title: The dynamic nature of percolation on networks with triadic interactions*</font>
 - *2024 [Isaac Newton Institute Satellite Programme on “Hypergraphs: theory and applications”](https://www.newton.ac.uk/event/hta/) (London, UK)*
-  <font size=3><b>Invited talk.</b> *Title: The dynamic nature of percolation on networks with triadic interactions*</font>
+  - <font size=3><b>Invited talk.</b> *Title: The dynamic nature of percolation on networks with triadic interactions*</font>
 - *2024 [1st British NetSci Symposium](https://www.netsci.uk/program-31th-may.html) (London, UK)*  
-  <font size=3>Contributed talk. *Title: Triadic percolation induces dynamical topological patterns in higher-order networks*</font>
+  - <font size=3>Contributed talk. *Title: Triadic percolation induces dynamical topological patterns in higher-order networks*</font>
 - *2024 [APS March Meeting 2024](https://march.aps.org/) (Minneapolis, United States)*  
   <font size=3>Contributed talk. *Title: Network science Ising state of matter*</font>
 - *2023 [CCS/Italy 2023](https://italy.cssociety.org/index.php/2023/05/23/ccs-italy-conference-2023/) (Naples, Italy)*  
