@@ -47,8 +47,6 @@ I have been an organiser of the following events:
   - <font size=3> A seminar at the Digital Environment Research Institute, Queen Mary University of London </font>
 - *[NetPlace](https://netplace.site)*
   - <font size=3> A seminar of Network, Phd Life And ComplExity </font>
-
-I have given contributed and invited talks on the following conferences:
 - *[WINQ program on Complex and Quantum Systems](https://indico.fysik.su.se/event/8139/)*
   - <font size=3> A one-week workshop at NORDITA focusing on the Dynamics and Topology of Complex Network Systems.  </font> 
 - *[NetPLACE @ NetSciX 2024](https://sites.google.com/view/netplace/panelsconferences/netscix2024)*
