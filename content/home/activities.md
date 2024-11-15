@@ -16,7 +16,7 @@ design:
 ---
 ## Teaching
 ***
-I will teach Statistical Methods in Data Analysis at the University of Iceland as a Guest Lecturer in Spring 2025.
+I will teach **Statistical Methods in Data Analysis** at the University of Iceland as a Guest Lecturer in Spring 2025.
 
 I have been a Teaching Associate at Queen Mary University of London for the following course:
 - **Vectors and Matrices**, *Level 4 module, Jan 2023-Apr 2023*

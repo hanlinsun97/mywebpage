@@ -25,6 +25,7 @@ interests:
   - Statistical Physics
   - Inference and Optimization on networks
   - Multilayer networks
+  - Quantum networks
 
 # Education to show in About widget
 education:
