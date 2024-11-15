@@ -110,10 +110,8 @@ I have also given talks on other internal seminars:
 
 
 
-
-
-
 ## Scholarships and Grants
+***
  -2024 Visiting Research Scholar, AccelNet/MultiNet Exchange program, $8000
  -2023 INI Network Support funding, Isaac Newton Institute for Mathematical Sciences, £5000 (with Silvia Rognone, Gabriele Di Bona, Annalisa Caligiuri)
 - 2022 Small Grant, The Institute of Mathematics and its application, £600
@@ -123,13 +121,15 @@ I have also given talks on other internal seminars:
 - 2020 Travel Grant Complex Systems \& Networks Group, QMUL, £300
 
 ## Awards and Achievements
+***
 - 2023 The article ‘The dynamic nature of percolation on networks with triadic interaction’ is featured in Nature Communications Editors’ Highlight
 - 2022 Outstanding Teaching Assistant (Nomination), King's College London
 - 2021 [Press coverage](https://discover.lanl.gov/news/discover-disease-forecasts), *Competition and collaboration: Understanding interacting epidemics can unlock better disease forecasts, Los Alamos National Laboratory*
 - 2021 [Press coverage](https://www.discovermagazine.com/technology/competition-and-collaboration-understanding-interacting-epidemics-can-unlock),*Competition and Collaboration: Understanding Interacting Epidemics Can Unlock Better Disease Forecasts, Discover Magazine*
 
 ## Referee and editorial activities
+***
 I have been a reviewer for the following journals:
 *Nature Communication*, *Nature Physics*, *Physica A: Statistical Mechanics and its Applications*, *Communication Physics*, *Scientific Reports*, *New Journal of Physics*, *IEEE Transactions on Network Science and Engineering*, *Bioinformatics*, *Chaos Solitons and Fractals*, *Journal of Physics A: Mathematical and Theoretical*, *Chaos: An Interdisciplinary journal of Nonlinear Science*
 
-Now I serve as a Guest Editor Assistant of the [Special Issue](https://www.mdpi.com/journal/entropy/special_issues/587BHCLBQQ) "Models, Topology and Inference of Multilayer and Higher-Order Networks" in *Entropy*.
+I served as a Guest Editor Assistant of the [Special Issue](https://www.mdpi.com/journal/entropy/special_issues/587BHCLBQQ) "Models, Topology and Inference of Multilayer and Higher-Order Networks" in *Entropy*.
