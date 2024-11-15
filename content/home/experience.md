@@ -23,7 +23,16 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-  - title: Research fellow
+  - title: AccelNet-MultiNet Fellow
+    company: Indiana University Bloomington
+    company_url: 'https://www.iu.edu/index.html'
+    company_logo: ''
+    location: Indiana, US
+    date_start: '2024-09-15'
+    date_end: '2024-12-15'
+    description: Research fellow funded by AccelNet-MultiNet program
+    
+  - title: WINQ Research fellow
     company: NORDITA, Stockholm University and KTH Royal Institute of Technology
     company_url: 'https://nordita.org/'
     company_logo: ''
