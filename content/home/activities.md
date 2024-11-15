@@ -12,9 +12,6 @@ weight: 80
 title: Activities
 design:
   column: "1"
-  background:
-    text_size: 'normal'
-  
 ---
 ## Teaching
 ***
@@ -54,8 +51,8 @@ I have been an organiser of the following events:
 I have given contributed and invited talks on the following conferences:
 
 - *2025 International Workshop “Higher-order interactions: mechanisms, behaviors, and networks” (Erice, Italy)*  
-  <font size=3><b>Invited plenary lecturer.</b></font>
-- *2024 [Workshop "Quantitative Methods for Dynamics on Networks"](https://web.cvent.com/event/f7ca64bc-7839-4911-bf0b-f37522c84809/summary), Los Alamos National Laboratory (Los Alamos, US)*  
+  <font size=9><b>Invited plenary lecturer.</b></font>
+- *2024 [Workshop "Quantitative Methods for Dynamics on Networks"](https://web.cvent.com/event/f7ca64bc-7839-4911-bf0b-f37522c84809/summary), Los Alamos National Laboratory (Los Alamos, US]*  
   <font size=3><b>Invited talk.</b> *Title: The dynamic nature of percolation on networks with triadic interactions*</font>
 - *2024 [Isaac Newton Institute Satellite Programme on “Hypergraphs: theory and applications”](https://www.newton.ac.uk/event/hta/) (London, UK)*
   <font size=3><b>Invited talk.</b> *Title: The dynamic nature of percolation on networks with triadic interactions*</font>
