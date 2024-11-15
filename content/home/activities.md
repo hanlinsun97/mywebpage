@@ -82,7 +82,7 @@ I have given contributed and invited talks on the following conferences:
 
 I have also given talks on other internal seminars:
 
--  *2024 Group Seminar, Carlos I Institute of Theoretical and Computational Physics, University of Granada*  
+- *2024 Carlos I Institute of Theoretical and Computational Physics, University of Granada*  
   - <font size=3><b>Invited talk.</b> *Title: Triadic percolation induces dynamical topological patterns in higher-order networks*</font>
 - *2023 Applied CATS Seminar, KTH (Stockholm, Sweden)*  
   - <font size=3><b>Invited talk.</b> *Title: Network science Ising states of matter*</font>
@@ -125,6 +125,6 @@ I have also given talks on other internal seminars:
 ## Referee and editorial activities
 ***
 I have been a reviewer for the following journals:
-*Nature Communication*, *Nature Physics*, *Physica A: Statistical Mechanics and its Applications*, *Communication Physics*, *Scientific Reports*, *New Journal of Physics*, *IEEE Transactions on Network Science and Engineering*, *Bioinformatics*, *Chaos Solitons and Fractals*, *Journal of Physics A: Mathematical and Theoretical*, *Chaos: An Interdisciplinary journal of Nonlinear Science*
+*Physical Review E*, *Nature Communication*, *Nature Physics*, *Physica A: Statistical Mechanics and its Applications*, *Communication Physics*, *Scientific Reports*, *New Journal of Physics*, *IEEE Transactions on Network Science and Engineering*, *Bioinformatics*, *Chaos Solitons and Fractals*, *Journal of Physics A: Mathematical and Theoretical*, *Chaos: An Interdisciplinary journal of Nonlinear Science*
 
 I served as a Guest Editor Assistant of the [Special Issue](https://www.mdpi.com/journal/entropy/special_issues/587BHCLBQQ) "Models, Topology and Inference of Multilayer and Higher-Order Networks" in *Entropy*.
