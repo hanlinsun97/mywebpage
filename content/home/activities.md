@@ -49,7 +49,17 @@ I have been an organiser of the following events:
   - <font size=3> A seminar of Network, Phd Life And ComplExity </font>
 
 I have given contributed and invited talks on the following conferences:
-
+- *[WINQ program on Complex and Quantum Systems](https://indico.fysik.su.se/event/8139/)*
+  - <font size=3> A one-week workshop at NORDITA focusing on the Dynamics and Topology of Complex Network Systems.  </font> 
+- *[NetPLACE @ NetSciX 2024](https://sites.google.com/view/netplace/panelsconferences/netscix2024)*
+  -  <font size=3> Panel discussions at NetSciX 2024 on scientific communication.
+- *[NetPLACE @ NetSci 2023](https://netsci2023.wixsite.com/netsci2023/program)*
+  - <font size=3> Two panel discussions at NetSci 2023 on some common concerns about academic writing and mental health.  </font> 
+- *[DERI PhD forum](https://www.qmul.ac.uk/deri/networks/deri-phd-forum-/)*
+  - <font size=3> A seminar at the Digital Environment Research Institute, Queen Mary University of London </font>
+- *[NetPlace](https://netplace.site)*
+  - <font size=3> A seminar of Network, Phd Life And ComplExity </font>
+<!-- 
 - *2025 International Workshop “Higher-order interactions: mechanisms, behaviors, and networks” (Erice, Italy)*  
   - <font size=3><b>Invited plenary lecturer.</b></font>
 - *2024 [Workshop "Quantitative Methods for Dynamics on Networks"](https://web.cvent.com/event/f7ca64bc-7839-4911-bf0b-f37522c84809/summary), Los Alamos National Laboratory (Los Alamos, US]*  
@@ -79,7 +89,7 @@ I have given contributed and invited talks on the following conferences:
 - *2021 [46th Conference of the Middle European Cooperation in Statistical Physics](https://meco46.sciencesconf.org/) (Online)*  
   <font size=3>Contributed talk. *Title: A message-passing approach to epidemic tracing and mitigation with apps*</font>
 - *2020 [Conference on Complex Systems 2020](http://ccs2020.web.auth.gr/) (Online)*  
-  <font size=3>Contributed talk. *Title: A message-passing approach to epidemic tracing and mitigation with apps*</font>
+  <font size=3>Contributed talk. *Title: A message-passing approach to epidemic tracing and mitigation with apps*</font> -->
 
 I have also given talks on other internal seminars:
 
