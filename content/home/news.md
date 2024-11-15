@@ -15,4 +15,4 @@ design:
   
 ---
 
-I will teach **Statistical Methods in Data Analysis** at the University of Iceland as a Guest Lecturer in Spring 2025.
+- 18/09/2024 I start my research visit at Indiana University Bloomington supervised by Prof. Filippo Radicchi, funded by AccelNet-MultiNet Exchange Program.
