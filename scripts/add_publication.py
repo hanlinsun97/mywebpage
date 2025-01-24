@@ -1,3 +1,4 @@
+import tempfile
 import os
 from datetime import datetime
 
@@ -36,6 +37,33 @@ def create_citation_key(first_author, year, title):
 
 def create_publication():
     # Get publication details
+    import os
+
+
+def create_publication():
+    # Other input prompts...
+
+    # Create a temporary file for the abstract
+    with tempfile.NamedTemporaryFile(delete=False, suffix=".txt") as temp_file:
+        print(
+            f"Please enter your abstract in the following file: {temp_file.name}")
+        print("Press Enter when you are done editing the abstract.")
+        temp_file.close()  # Close the file so it can be opened in an editor
+
+        # Open the temporary file in the default text editor
+        # Use 'xdg-open' for Linux or 'start' for Windows
+        os.system(f'open "{temp_file.name}"')
+
+        input("Press Enter after you have finished editing the abstract...")
+
+        # Read the abstract from the temporary file
+        with open(temp_file.name, 'r', encoding='utf-8') as f:
+            abstract = f.read().strip()
+
+    # Delete the temporary file
+    os.remove(temp_file.name)
+
+    # Continue with the rest of the publication creation...
     title = input("Paper title: ").strip()
     authors = input("Full author list (comma-separated in order): ").strip()
     date = input("Publication date (YYYY-MM-DD): ").strip() + "T00:00:00Z"
