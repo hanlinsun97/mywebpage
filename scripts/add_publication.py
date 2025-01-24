@@ -38,20 +38,13 @@ def create_publication():
     # Get publication details
     title = input("Paper title: ").strip()
     authors = input("Full author list (comma-separated in order): ").strip()
-    date = input("Publication date (YYYY-MM-DD): ").strip()
+    date = input("Publication date (YYYY-MM-DD): ").strip() + "T00:00:00Z"
     doi = input("DOI: ").strip()
     journal_name = input("Journal name (full name): ").strip()
     journal_short = input("Journal name (abbreviated): ").strip()
     abstract = input("Abstract: ").strip()
     arxiv = input("arXiv link (press enter if none): ").strip()
     pdf_link = input("PDF link (press enter if none): ").strip()
-
-    # Validate date format
-    try:
-        datetime.strptime(date, "%Y-%m-%d")
-    except ValueError:
-        print("Incorrect date format. Please use YYYY-MM-DD.")
-        return
 
     # Process date and year
     year = date.split('-')[0]
