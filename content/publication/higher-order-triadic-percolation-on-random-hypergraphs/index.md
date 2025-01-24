@@ -4,10 +4,9 @@ title: 'Higher-order triadic percolation on random hypergraphs'
 # Authors
 authors:
   - admin
-  - admin
   - Ginestra Bianconi
 
-date: '2024-12-19'
+date: '2024-12-19T00:00:00Z'
 doi: '10.1103/PhysRevE.110.064315'
 
 # Schedule page publish date (NOT publication's date).
@@ -18,7 +17,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Physical Review E*
-publication_short: In *Phys Rev E*
+publication_short: In *Phys. Rev. E*
 
 abstract: to add
 
