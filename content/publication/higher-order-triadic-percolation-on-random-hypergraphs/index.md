@@ -19,7 +19,7 @@ publication_types: ['2']
 publication: In *Physical Review E*
 publication_short: In *Phys. Rev. E*
 
-abstract: to add
+abstract: In this work, we propose a comprehensive theoretical framework combining percolation theory with nonlinear dynamics to study hypergraphs with a time-varying giant component. We consider in particular hypergraphs with higher-order triadic interactions. Higher-order triadic interactions occur when one or more nodes up-regulate or down-regulate a hyperedge. For instance, enzymes regulate chemical reactions involving multiple reactants. Here we propose and investigate higher-order triadic percolation on hypergraphs showing that the giant component can have a nontrivial dynamics. Specifically, we show that the fraction of nodes in the giant component undergoes a route to chaos in the universality class of the logistic map. In hierarchical higher-order triadic percolation, we extend this paradigm in order to treat hierarchically nested higher-order triadic interactions. We demonstrate the nontrivial effects of their increased combinatorial complexity on the critical phenomena and the dynamical properties of the process. Finally, we consider other generalizations of the model studying the effect of adopting interdependencies and node regulation instead of hyperedge regulation. The comprehensive theoretical framework presented here sheds light on possible scenarios for climate networks, biological networks, and brain networks, where the hypergraph connectivity changes over time.
 
 tags: []
 
