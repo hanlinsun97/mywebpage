@@ -49,19 +49,9 @@ image:
 
 **Higher-order triadic percolation on random hypergraphs** (2024)
 
-**Hanlin Sun**, **Hanlin Sun**, Ginestra Bianconi
+**Hanlin Sun**, Ginestra Bianconi
 
 In *Phys. rev. E*
 
 # Abstract
 to add
-
-# Cite
-
-@article{sun2024higher-order,
-  title = {Higher-order triadic percolation on random hypergraphs},
-  author = {Hanlin Sun and Ginestra Bianconi},
-  journal = {Physical Review E},
-  year = {2024},
-  doi = {10.1103/PhysRevE.110.064315}
-}
