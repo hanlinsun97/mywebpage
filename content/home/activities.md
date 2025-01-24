@@ -15,7 +15,7 @@ design:
 ---
 ## Teaching
 ***
-I will teach **Statistical Methods in Data Analysis** at the University of Iceland as a Guest Lecturer in Spring 2025.
+I teach **Statistical Methods in Data Processing** at the University of Iceland as a Guest Lecturer in Spring 2025.
 
 I have been a Teaching Associate at Queen Mary University of London for the following course:
 - **Vectors and Matrices**, *Level 4 module, Jan 2023-Apr 2023*
@@ -46,7 +46,7 @@ I have been an organiser of the following events:
 - *[DERI PhD forum](https://www.qmul.ac.uk/deri/networks/deri-phd-forum-/)*
   - <font size=3> A seminar at the Digital Environment Research Institute, Queen Mary University of London </font>
 - *[NetPlace](https://netplace.site)*
-  - <font size=3> A seminar of Network, Phd Life And ComplExity </font>
+  - <font size=3> A community for young network scientists </font>
 
 I have given contributed and invited talks on the following conferences:
 - *2025 International Workshop “Higher-order interactions: mechanisms, behaviors, and networks” (Erice, Italy)*  
