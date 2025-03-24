@@ -89,4 +89,6 @@ Hanlin holds a Ph.D. in Applied Mathematics. During his PhD at Queen Mary Univer
 
 Before joining Queen Mary, Hanlin studied physics at the University of Chinese Academy of Sciences, China (BSc). During his undergraduate study, he worked on the inference and optimization on multiple interacting spreading processes on networks under the supervisor of Prof. David Saad, Aston University, and low-rank approximation algorithms on tensor networks under the supervisor of Prof. Pan Zhang, Institute of Theoretical Physics, Chinese Academy of Sciences.
 
+He will start his new job as a MSCA fellow soon at University of Granada with Prof. Miguel Ángel Muñoz.
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
