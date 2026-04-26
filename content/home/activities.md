@@ -17,9 +17,12 @@ design:
 ---
 ## Teaching
 ***
-I teach **Statistical Methods in Data Processing** at the University of Iceland as a Guest Lecturer in Spring 2025.
+- **Network Science** (Guest Lecturer), Uppsala University, Summer 2026
+- **Higher-order Networks and Topological Deep Learning** (Guest Lecturer), Sapienza Università di Roma, Autumn 2025
+- **Percolation theory on higher-order networks** (Invited plenary lecturer), 20th Course of the School of Complexity, Erice, 2025
+- **Statistical Methods in Data Processing** (Guest Lecturer), University of Iceland, Spring 2025
 
-I have been a Teaching Associate at Queen Mary University of London for the following course:
+I have been a Teaching Associate at Queen Mary University of London for the following courses:
 - **Vectors and Matrices**, *Level 4 module, Jan 2023-Apr 2023*
 - **Calculus II**, *Level 4 module, Jan 2023-Apr 2023*
 - **Calculus I**, *Level 4 module, Sep 2022-Dec 2022*
@@ -39,6 +42,14 @@ I have been a Graduate Teaching Assistant at King's College London for the follo
 ## Conferences, Schools and Events
 ***
 I have been an organiser of the following events:
+- *NetPlace@NetSciX 2026* (Auckland, New Zealand)
+  - <font size=3>Panel discussion on Beyond Isolation: Getting Connected in Network Science.</font>
+- *NetPlace@NetSci 2025* (Maastricht, the Netherlands)
+  - <font size=3>Panel discussion on Science as a craft.</font>
+- *NetPlace Workshop: Networks & Physics in London* (London, UK, 2025)
+  - <font size=3>One-day workshop supported by QMUL and British Chapter of the Network Science Society, funded by Isaac Newton Institute.</font>
+- *NetPlace@NetSciX 2025* (Indore, India)
+  - <font size=3>Panel discussion on Challenges and Opportunities in Network Science.</font>
 - *[WINQ program on Complex and Quantum Systems](https://indico.fysik.su.se/event/8139/)*
   - <font size=3> A one-week workshop at NORDITA focusing on the Dynamics and Topology of Complex Network Systems.  </font> 
 - *[NetPLACE @ NetSciX 2024](https://sites.google.com/view/netplace/panelsconferences/netscix2024)*
@@ -48,11 +59,21 @@ I have been an organiser of the following events:
 - *[DERI PhD forum](https://www.qmul.ac.uk/deri/networks/deri-phd-forum-/)*
   - <font size=3> A seminar at the Digital Environment Research Institute, Queen Mary University of London </font>
 - *[NetPlace](https://netplace.site)*
-  - <font size=3> A community for young network scientists </font>
+  - <font size=3> A community for young network scientists. Co-founded and serve on the Executive Committee. </font>
 
 I have given contributed and invited talks on the following conferences:
+- *2026 Satellite @ NetSci 2026: TopoNet2026 (Boston, USA)*  
+  - <font size=3><b>Keynote speaker.</b></font>
+- *2026 NetSci 2026 (Boston, USA)*  
+  - <font size=3>Contributed talk. *Title: Unveiling the importance of nonshortest paths in quantum networks*</font>
+- *2025 18th Granada Seminar (Granada, Spain)*  
+  - <font size=3>Contributed talk. *Title: Unveiling the importance of nonshortest paths in quantum networks*</font>
+- *2025 Workshop on Random Simplicial complexes and Hypergraphs (WoRSCH) (Nottingham, UK)*  
+  - <font size=3><b>Invited speaker.</b> *Title: Percolation theory on higher-order networks*</font>
 - *2025 International Workshop “Higher-order interactions: mechanisms, behaviors, and networks” (Erice, Italy)*  
-  - <font size=3><b>Invited plenary lecturer.</b></font>
+  - <font size=3><b>Invited plenary lecturer.</b> *Title: Percolation theory on higher-order networks*</font>
+- *2025 NetSci 2025 (Maastricht, the Netherlands)*  
+  - <font size=3>Contributed talk. *Title: Triadic percolation induces dynamical topological patterns in higher-order networks*</font>
 - *2024 [Workshop "Quantitative Methods for Dynamics on Networks"](https://web.cvent.com/event/f7ca64bc-7839-4911-bf0b-f37522c84809/summary), Los Alamos National Laboratory (Los Alamos, US]*  
   - <font size=3><b>Invited talk.</b> *Title: The dynamic nature of percolation on networks with triadic interactions*</font>
 - *2024 [Isaac Newton Institute Satellite Programme on “Hypergraphs: theory and applications”](https://www.newton.ac.uk/event/hta/) (London, UK)*
@@ -84,6 +105,8 @@ I have given contributed and invited talks on the following conferences:
 
 I have also given talks on other internal seminars:
 
+- *2024 Northwestern Institute on Complex Systems, Northwestern University*  
+  - <font size=3><b>Invited speaker.</b> *Title: Triadic percolation induces dynamical topological patterns in higher-order networks*</font>
 - *2024 Carlos I Institute of Theoretical and Computational Physics, University of Granada*  
   - <font size=3><b>Invited talk.</b> *Title: Triadic percolation induces dynamical topological patterns in higher-order networks*</font>
 - *2023 Applied CATS Seminar, KTH (Stockholm, Sweden)*  
@@ -107,6 +130,19 @@ I have also given talks on other internal seminars:
 - *2020 Queen Mary Internal Postgraduate Seminar (QuIPS)*  
   - <font size=3><b>Invited talk.</b> *Title: A message-passing approach to epidemic tracing and mitigation with apps*</font>
 
+## Supervision and Mentorship
+
+- Shanshan Liu, Master student, Jiangsu University, 2026 (ongoing, co-supervised)
+- Jingyu Gao, Visiting PhD student, Jiangsu University, 2026 (ongoing)
+- Ron Demjaha, Master project, Uppsala University, 2024
+- Yingshan Guo, Visiting Master student, Anqing Normal University, 2023
+- Efe Görgüner, Visiting high school student, Royal Grammar School Guildford, 2022
+
+## Outreach
+- Speaker at *News & Views at Nordita*, Stockholm, 2025
+- Speaker at *Nordita Day of Open Doors*, Stockholm, 2023
+- Participant, *Lipari School on Computational Complex and Social Systems*, 2022
+
 ## Scholarships and Grants
 ***
 - 2024 Visiting Research Scholar, AccelNet/MultiNet Exchange program, $8000
@@ -119,7 +155,8 @@ I have also given talks on other internal seminars:
 
 ## Awards and Achievements
 ***
-- 2023 The article ‘The dynamic nature of percolation on networks with triadic interaction’ is featured in Nature Communications Editors’ Highlight
+- 2026 The article ‘Triadic percolation on multilayer networks’ is selected as **Editors’ Suggestion** in *Physical Review E*
+- 2023 The article ‘The dynamic nature of percolation on networks with triadic interaction’ is featured in *Nature Communications* Editors’ Highlight
 - 2022 Outstanding Teaching Assistant (Nomination), King's College London
 - 2021 [Press coverage](https://discover.lanl.gov/news/discover-disease-forecasts), *Competition and collaboration: Understanding interacting epidemics can unlock better disease forecasts, Los Alamos National Laboratory*
 - 2021 [Press coverage](https://www.discovermagazine.com/technology/competition-and-collaboration-understanding-interacting-epidemics-can-unlock),*Competition and Collaboration: Understanding Interacting Epidemics Can Unlock Better Disease Forecasts, Discover Magazine*
@@ -127,6 +164,7 @@ I have also given talks on other internal seminars:
 ## Referee and editorial activities
 ***
 I have been a reviewer for the following journals:
-*Physical Review E*, *Nature Communication*, *Nature Physics*, *Physica A: Statistical Mechanics and its Applications*, *Communication Physics*, *Scientific Reports*, *New Journal of Physics*, *IEEE Transactions on Network Science and Engineering*, *Bioinformatics*, *Chaos Solitons and Fractals*, *Journal of Physics A: Mathematical and Theoretical*, *Chaos: An Interdisciplinary journal of Nonlinear Science*
+*Physical Review Letters*, *Science Advances*, *Nature Physics*, *Nature Communications*, *Communication Physics*, *Physical Review E*, *Physica A: Statistical Mechanics and its Applications*, *Scientific Reports*, *New Journal of Physics*, *IEEE Transactions on Network Science and Engineering*, *Journal of Statistical Physics*, *Journal of Complex Networks*, *Bioinformatics*, *Chaos Solitons and Fractals*, *Journal of Physics A: Mathematical and Theoretical*, *Chaos: An Interdisciplinary journal of Nonlinear Science*
 
+I served as a Guest Editor of the Special Issue "Complex Dynamical Networks and Chaotic Systems" in *Mathematics*.
 I served as a Guest Editor Assistant of the [Special Issue](https://www.mdpi.com/journal/entropy/special_issues/587BHCLBQQ) "Models, Topology and Inference of Multilayer and Higher-Order Networks" in *Entropy*.

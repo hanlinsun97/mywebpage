@@ -14,8 +14,11 @@ design:
   column: "1"
   
 ---
+- 2026/04 Our roadmap paper [*Hypergraphs and simplicial complexes in focus: A roadmap for future research in higher-order interactions*](/publication/hypergraphs-and-simplicial-complexes-in-focus-a-roadmap-for-future-research-in-higher-order-interactions/) is published in *Journal of Physics: Complexity*.
+- 2026/02 Our paper [*Triadic percolation on multilayer networks*](/publication/triadic-percolation-on-multilayer-networks/) is selected as **Editors' Suggestion** in *Physical Review E*.
 - 2026/01 Our paper [*Triadic percolation on multilayer networks*](/publication/triadic-percolation-on-multilayer-networks/) is published in *Physical Review E*.
 - 2026/01 Our paper [*Shortest-path percolation on scale-free networks*](/publication/shortest-path-percolation-on-scale-free-networks/) is published in *Physical Review E*.
+- 2025/02 I was awarded a Marie Skłodowska-Curie Actions (MSCA) Individual Fellowship.
 - 2025/02 Our paper [*Unveiling the importance of nonshortest paths in quantum networks*](/publication/unveiling-the-importance-of-nonshortest-paths-in-quantum-networks/) is published in *Science Advances*.
 - 2025/02 Our perspective article [*Topology shapes dynamics of higher-order networks*](/publication/topology-shapes-dynamics-of-higher-order-networks/) is published in *Nature Physics*.
 - 2025/02 I started serving as a Board Member of the [Network Science Society](https://www.netscisociety.net/home).

@@ -3,7 +3,7 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
 
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
@@ -25,6 +25,24 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
+  - title: Board Member
+    company: Network Science Society
+    company_url: 'https://www.netscisociety.net/home'
+    company_logo: ''
+    location: ''
+    date_start: '2025-02-01'
+    date_end: ''
+    description: Representing NetPlace, a society of young network scientists.
+
+  - title: WINQ Research Fellow
+    company: NORDITA, Stockholm University and KTH Royal Institute of Technology
+    company_url: 'https://nordita.org/'
+    company_logo: ''
+    location: Stockholm, Sweden
+    date_start: '2023-09-01'
+    date_end: ''
+    description: Research fellow funded by The Wallenberg Initiative on Networks and Quantum Information (WINQ).
+
   - title: AccelNet-MultiNet Fellow
     company: Indiana University
     company_url: 'https://www.iu.edu/index.html'
@@ -34,15 +52,6 @@ experience:
     date_end: '2024-12-15'
     description: Research fellow funded by AccelNet-MultiNet program.
 
-  - title: WINQ Research fellow
-    company: NORDITA, Stockholm University and KTH Royal Institute of Technology
-    company_url: 'https://nordita.org/'
-    company_logo: ''
-    location: Stockholm, Sweden
-    date_start: '2023-09-01'
-    date_end: ''
-    description: Research fellow funded by The Wallenberg Initiative on Networks and Quantum Information (WINQ).
-
   - title: PhD researcher
     company: Queen Mary University of London
     company_url: ''
@@ -51,7 +60,7 @@ experience:
     date_start: '2019-09-01'
     date_end: '2023-08-31'
     description: |2-
-        PhD in Applied Mathematics. Study percolation on networks and higher-order structures under the supervision of Prof. Ginestra Bianconi.
+        PhD in Applied Mathematics. Studied percolation on networks and higher-order structures under the supervision of Prof. Ginestra Bianconi.
 
   - title: Visiting student
     company: Aston University

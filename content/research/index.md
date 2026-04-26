@@ -1,30 +1,50 @@
 ---
 title: Research
-summary: Research themes in percolation, higher-order networks, statistical physics, and dynamics on complex systems.
+summary: Mathematical modelling of the network structure–dynamics interplay, with emphasis on critical phenomena and non-linear dynamics on networks, multilayer networks, and higher-order networks.
 ---
 
-My research focuses on dynamical processes on complex networks and higher-order structures. I am especially interested in how network topology, geometry, and many-body interactions shape collective behavior, robustness, critical phenomena, and inference problems.
+My research focuses on mathematical modelling of the interplay between network structure and dynamics, with emphasis on critical phenomena and non-linear dynamics on networks, multilayer networks, and higher-order networks, as well as inference and optimisation of dynamics.
 
-## Higher-order percolation and dynamics
+<div class="research-section">
+<h2>work</h2>
 
-Higher-order interactions can turn classical percolation into a genuinely dynamical process. My work studies how triadic interactions, hyperedges, and simplicial structures change phase transitions, generate oscillations or chaotic behavior, and produce time-varying connectivity patterns.
+<div class="row research-grid">
 
-Related work: [triadic percolation on networks](/publication/triadic/), [higher-order triadic percolation](/publication/higher-order-triadic-percolation-on-random-hypergraphs/), and [triadic percolation on multilayer networks](/publication/triadic-percolation-on-multilayer-networks/).
+<div class="col-12 col-md-6 col-lg-4">
+  <a href="/project/higher-order-network-modelling/" class="research-card">
+    <img src="/project/higher-order-network-modelling/featured.png" alt="Higher-order network modelling" loading="lazy">
+    <h3>higher-order network modelling</h3>
+    <hr>
+    <p>hypergraphs, simplicial complexes &amp; triadic interactions</p>
+  </a>
+</div>
 
-## Hypergraphs, simplicial complexes, and topology
+<div class="col-12 col-md-6 col-lg-4">
+  <a href="/project/epidemic-spreading-modelling/" class="research-card">
+    <img src="/project/epidemic-spreading-modelling/featured.png" alt="Epidemic spreading modelling" loading="lazy">
+    <h3>epidemic spreading modelling</h3>
+    <hr>
+    <p>hypergraph contagion, contact tracing &amp; branching processes</p>
+  </a>
+</div>
 
-I use hypergraphs and simplicial complexes to model systems whose interactions are not reducible to pairs. This includes robustness, higher-order network geometry, topological dynamics, and the mathematical foundations of higher-order systems.
+<div class="col-12 col-md-6 col-lg-4">
+  <a href="/project/inference-control-networks/" class="research-card">
+    <img src="/project/inference-control-networks/featured.png" alt="Inference and control" loading="lazy">
+    <h3>inference &amp; optimal control</h3>
+    <hr>
+    <p>dynamic message-passing for prediction and control</p>
+  </a>
+</div>
 
-Related work: [higher-order percolation on multiplex hypergraphs](/publication/hypergraph/), [topology shapes dynamics](/publication/topology-shapes-dynamics-of-higher-order-networks/), and [the higher-order interactions roadmap](/publication/hypergraphs-and-simplicial-complexes-in-focus-a-roadmap-for-future-research-in-higher-order-interactions/).
+<div class="col-12 col-md-6 col-lg-4">
+  <a href="/project/network-theory-applications/" class="research-card">
+    <img src="/project/network-theory-applications/featured.png" alt="Applications" loading="lazy">
+    <h3>network theory applications</h3>
+    <hr>
+    <p>statistical physics, quantum networks &amp; non-local percolation</p>
+  </a>
+</div>
 
-## Epidemic spreading and message passing
-
-Message-passing methods provide tractable descriptions of spreading processes on networks. I have worked on epidemic tracing, containment, and interacting spreading processes, with applications ranging from mobile-app mitigation to competition and collaboration between contagions.
-
-Related work: [epidemic tracing with apps](/publication/app/), [time-dependent branching processes](/publication/criticaltimedependent/), and [interacting spreading processes](/publication/collaboration/).
-
-## Statistical physics, inference, and quantum networks
-
-I am also interested in statistical-physics methods for networked systems, including Ising-like network states, non-parametric learning of critical behavior, and percolation-inspired questions in quantum networks.
-
-Related work: [network science Ising states](/publication/isingnet/), [PCA entropy and intrinsic dimension](/publication/non-parametric-learning-critical-behavior-in-ising-partition-functions-pca-entropy-and-intrinsic-dimension/), and [nonshortest paths in quantum networks](/publication/unveiling-the-importance-of-nonshortest-paths-in-quantum-networks/).
+</div>
+</div>
