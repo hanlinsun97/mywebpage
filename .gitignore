@@ -1,5 +1,9 @@
 # IDEs
 .idea/
+.vscode/
+
+# Local/editor files
+.DS_Store
 
 # Hugo
 resources/
@@ -8,3 +12,4 @@ jsconfig.json
 node_modules/
 go.sum
 .hugo_build.lock
+.tools/

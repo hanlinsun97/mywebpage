@@ -7,18 +7,18 @@ authors:
   - admin
   - Joaquín J. Torres
 
-date: '2024-10-30T00:00:00Z'
-doi: 'https://doi.org/10.48550/arXiv.2410.23476'
+date: '2025-03-21T00:00:00Z'
+doi: 'https://doi.org/10.1088/2632-072X/adbf5e'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 'PUBLISH_DATE_HERE'
+publishDate: '2025-03-21T00:00:00Z'
 
 # Publication type.
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *arXiv*
-publication_short: In *arXiv*
+publication: 'In *Journal of Physics: Complexity*'
+publication_short: In *J. Phys. Complex.*
 
 abstract: Triadic interactions are general mechanisms by which a node or neuron can regulate directly the link or synapse between other two neurons. The regulation takes place in a familiar way by either depressing or facilitating synaptic transmission. Such interactions are ubiquitous in neural systems, accounting for axo-axonic synapses and tripartite synapses mediated by astrocytes, for instance, and have been related to neuronal and synaptic processes at different time-scales, including short and long-term synaptic plasticity. In the field of network science, triadic interactions have been shown to produce complex spatio-temporal patterns of connectivity. Here, we investigate the emergent behavior of an in silico neural medium constituted by a population of leaky integrate-and-fire neurons with triadic interactions. We observe that, depending on relevant parameters defining triadic interactions, different activity patterns emerge. These include i) a silent phase, ii) a low-activity phase in which complex spatio-temporal patterns of low neuronal firing rate emerge that propagate through the medium, iii) a high-activity phase characterized by complex spatio-temporal patterns of high neuronal firing rate that propagate through the neural medium as waves of high firing activity over a bulk of low activity neurons, and iv) a pseudo-blinking phase in which the neural medium switches between high and low activity states, in a similar fashion to up/down state transitions. Here we analyse in depth the features of such patterns and relate our findings to the recently proposed model of triadic percolation.
 
@@ -29,6 +29,8 @@ featured: false
 
 # Custom links
 links:
+- name: paper
+  url: https://iopscience.iop.org/article/10.1088/2632-072X/adbf5e
 - name: arxiv
   url: https://arxiv.org/abs/2410.23476
 url_pdf: ''

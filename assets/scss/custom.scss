@@ -1,0 +1,127 @@
+/* Site accent color, matched to the red used on Maxime Lucas's site. */
+$site-accent-red: #b71c1c;
+$site-accent-red-hover: #8f1515;
+
+a,
+.article-style a,
+.docs-article-container a,
+.section-heading a,
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .nav-link:hover,
+.network-icon a:hover,
+.article-metadata a:hover,
+.page-link,
+.pub-list-item a,
+.project-card a {
+  color: $site-accent-red;
+}
+
+a:hover,
+a:focus,
+.article-style a:hover,
+.docs-article-container a:hover,
+.page-link:hover,
+.page-link:focus,
+.pub-list-item a:hover,
+.project-card a:hover {
+  color: $site-accent-red-hover;
+}
+
+.btn-primary,
+.btn-outline-primary:hover,
+.page-item.active .page-link,
+.nav-pills .nav-link.active,
+.nav-pills .show > .nav-link,
+.nav-tabs .nav-link.active,
+.badge-primary {
+  background-color: $site-accent-red;
+  border-color: $site-accent-red;
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+  background-color: $site-accent-red-hover;
+  border-color: $site-accent-red-hover;
+}
+
+.btn-outline-primary,
+.page-link {
+  border-color: $site-accent-red;
+}
+
+.navbar-light .navbar-nav > .nav-item > .nav-link.active,
+.navbar-light .navbar-nav > .active > .nav-link,
+#navbar-main .main-menu-item .nav-item .nav-link.active,
+.docs-sidebar .docs-toc-item.active a,
+.docs-sidebar .docs-toc-item a.active,
+#TableOfContents li a.active {
+  color: $site-accent-red;
+}
+
+.experience .m-2 .border,
+.experience .col.border-right,
+.nav-pills .nav-link.active,
+.nav-tabs .nav-link.active {
+  border-color: $site-accent-red !important;
+}
+
+.experience .m-2 .border.exp-fill,
+.featurette-icon {
+  background-color: $site-accent-red !important;
+  color: $site-accent-red;
+}
+
+.pub-list-item,
+.pub-list-item .article-title,
+.pub-list-item .article-title a,
+.pub-list-item .article-metadata,
+.pub-list-item .article-style,
+.pub-list-item .pub-abstract,
+.li-cite-author,
+.li-cite-author a {
+  color: #000;
+}
+
+.pub-list-item .btn-links a,
+.pub-list-item a.btn,
+.pub-list-item .article-metadata a:hover,
+.pub-list-item .article-title a:hover {
+  color: $site-accent-red;
+}
+
+#navbar-main .main-menu-item .nav-item .nav-link,
+#navbar-main .main-menu-item .nav-item .nav-link:visited {
+  color: #000 !important;
+}
+
+#navbar-main .main-menu-item .nav-item .nav-link.active,
+#navbar-main .main-menu-item .nav-item.active > .nav-link,
+#navbar-main .main-menu-item .nav-item .nav-link:hover,
+#navbar-main .main-menu-item .nav-item .nav-link:focus {
+  color: $site-accent-red !important;
+}
+
+.btn.btn-outline-primary,
+.btn.btn-outline-primary:visited,
+.btn.btn-outline-primary:hover,
+.btn.btn-outline-primary:focus,
+.btn-links .btn,
+.btn-links .btn:visited,
+.btn-links .btn:hover,
+.btn-links .btn:focus,
+.article-style .btn,
+.article-style .btn:visited,
+.article-style .btn:hover,
+.article-style .btn:focus {
+  color: $site-accent-red !important;
+  border-color: $site-accent-red !important;
+}
+
+.btn.btn-outline-primary:hover,
+.btn.btn-outline-primary:focus,
+.btn-links .btn:hover,
+.btn-links .btn:focus,
+.article-style .btn:hover,
+.article-style .btn:focus {
+  background-color: rgba(183, 28, 28, 0.08) !important;
+}
