@@ -1,0 +1,296 @@
+- slug: criticality-universality-network-dismantling
+  title: Criticality and universality in network dismantling
+  authors:
+  - L. Cirigliano
+  - C. Castellano
+  - M. Kim
+  - F. Radicchi
+  - H. Sun†
+  venue: arXiv
+  year: 2026
+  links:
+    arxiv: https://arxiv.org/abs/2608.27613
+  projects:
+  - higher
+- slug: hypergraphs-and-simplicial-complexes-in-focus-a-roadmap-for-future-research-in-higher-order-interactions
+  title: 'Hypergraphs and simplicial complexes in focus: A roadmap for future research in higher-order interactions'
+  authors:
+  - A. Abiad
+  - A. Arenas
+  - A. Backhausz
+  - J. Balogh
+  - C. R. S. Banerji
+  - S. Barbarossa
+  - G. Bianconi
+  - C. Bick
+  - M. B. B. Botnan
+  - T. Carletti
+  - L. Cavallaro
+  - A. Civilini
+  - T. Eliassi-Rad
+  - X. Gong
+  - K. Guo
+  - H. Harrington
+  - J. Jost
+  - P. L. Krapivsky
+  - P. Liò
+  - B. MacArthur
+  - C. Mattsson
+  - P. Mediano
+  - A. P. Millán
+  - R. Mulas
+  - A. Patania
+  - G. Petri
+  - C. Rathilal
+  - R. J. Sanchez Garcia
+  - M. Scolamiero
+  - M. T. Schaub
+  - H. Sun
+  - Y. Tian
+  - F. Vaccarino
+  - X. Kelin
+  venue: 'Journal of Physics: Complexity'
+  year: 2026
+  links:
+    paper: https://iopscience.iop.org/article/10.1088/2632-072X/ae3c4e
+  projects: []
+- slug: triadic-percolation-on-multilayer-networks
+  title: Triadic percolation on multilayer networks
+  authors:
+  - H. Sun†
+  - F. Radicchi
+  - G. Bianconi
+  venue: Physical Review E
+  year: 2026
+  links:
+    paper: https://journals.aps.org/pre/abstract/10.1103/yvtg-wnn4
+    arxiv: https://arxiv.org/abs/2510.09341
+  featured: 6
+  projects:
+  - higher
+  note: Editors' Suggestion
+- slug: shortest-path-percolation-on-scale-free-networks
+  title: Shortest-path percolation on scale-free networks
+  authors:
+  - M. Kim
+  - L. Cirigliano
+  - C. Castellano
+  - H. Sun
+  - R. Jankowski
+  - A. Poggialini
+  - F. Radicchi
+  venue: Physical Review E
+  year: 2026
+  links:
+    paper: https://journals.aps.org/pre/abstract/10.1103/pk8t-px35
+    arxiv: https://arxiv.org/abs/2509.09142
+  projects:
+  - applications
+- slug: spatio-temporal-activity-patterns-induced-by-triadic-interactions-in-an-in-silico-neural-medium
+  title: Spatio-temporal activity patterns induced by triadic interactions in an in silico neural medium
+  authors:
+  - A. P. Millán
+  - H. Sun
+  - J. J. Torres
+  venue: 'Journal of Physics: Complexity'
+  year: 2025
+  links:
+    paper: https://iopscience.iop.org/article/10.1088/2632-072X/adbf5e
+    arxiv: https://arxiv.org/abs/2410.23476
+  projects:
+  - higher
+- slug: unveiling-the-importance-of-nonshortest-paths-in-quantum-networks
+  title: Unveiling the importance of nonshortest paths in quantum networks
+  authors:
+  - X. Hu
+  - G. Dong
+  - K. Christensen
+  - H. Sun
+  - J. Fan
+  - Z. Tian
+  - J. Gao
+  - S. Havlin
+  - R. Lambiotte
+  - X. Meng
+  venue: Science Advances
+  year: 2025
+  links:
+    paper: https://www.science.org/doi/10.1126/sciadv.adt2404
+  featured: 4
+  projects:
+  - applications
+- slug: topology-shapes-dynamics-of-higher-order-networks
+  title: Topology shapes dynamics of higher-order networks
+  authors:
+  - A. P. Millán
+  - H. Sun
+  - L. Giambagli
+  - R. Muolo
+  - T. Carletti
+  - J. J. Torres
+  - F. Radicchi
+  - J. Kurths
+  - G. Bianconi
+  venue: Nature Physics
+  year: 2025
+  links:
+    paper: https://www.nature.com/articles/s41567-024-02757-w
+  featured: 3
+  projects:
+  - higher
+- slug: higher-order-triadic-percolation-on-random-hypergraphs
+  title: Higher-order triadic percolation on random hypergraphs
+  authors:
+  - H. Sun†
+  - G. Bianconi
+  venue: Physical Review E
+  year: 2024
+  links:
+    arxiv: https://arxiv.org/abs/2407.14213
+    paper: https://doi.org/10.1103/PhysRevE.110.064315
+  projects:
+  - higher
+- slug: triadic-percolation-induces-dynamical-topological-patterns-in-higher-order-networks
+  title: Triadic percolation induces dynamical topological patterns in higher-order networks
+  authors:
+  - A. P. Millán
+  - H. Sun*
+  - J. J. Torres
+  - G. Bianconi
+  venue: PNAS Nexus
+  year: 2024
+  links:
+    paper: https://academic.oup.com/pnasnexus/article/3/7/pgae270/7709778
+    arxiv: https://arxiv.org/abs/2311.14877
+  projects:
+  - higher
+- slug: isingnet
+  title: 'Network science: Ising states of matter'
+  authors:
+  - H. Sun
+  - R. K. Panda
+  - R. Verdel
+  - A. Rodriguez
+  - M. Dalmonte
+  - G. Bianconi
+  venue: Physical Review E
+  year: 2024
+  links:
+    arxiv: https://arxiv.org/abs/2308.13604
+    paper: https://doi.org/10.1103/PhysRevE.109.054305
+  projects:
+  - applications
+- slug: non-parametric-learning-critical-behavior-in-ising-partition-functions-pca-entropy-and-intrinsic-dimension
+  title: 'Non-parametric learning critical behavior in Ising partition functions: PCA entropy and intrinsic dimension'
+  authors:
+  - R. K. Panda
+  - R. Verdel
+  - A. Rodriguez
+  - H. Sun
+  - G. Bianconi
+  - M. Dalmonte
+  venue: SciPost Physics Core
+  year: 2023
+  links:
+    paper: https://scipost.org/SciPostPhysCore.6.4.086
+    arxiv: https://arxiv.org/abs/2308.13636
+  projects:
+  - applications
+- slug: triadic
+  title: The dynamic nature of percolation on networks with triadic interactions
+  authors:
+  - H. Sun
+  - F. Radicchi
+  - J. Kurths
+  - G. Bianconi
+  venue: Nature Communications
+  year: 2023
+  links:
+    arxiv: https://arxiv.org/abs/2204.13067
+    paper: https://doi.org/10.1038/s41467-023-37019-5
+    code: https://github.com/hanlinsun97/triadic-percolation
+  featured: 2
+  projects:
+  - higher
+- slug: criticaltimedependent
+  title: Critical time-dependent branching process modelling epidemic spreading with containment measures
+  authors:
+  - H. Sun
+  - I. Kryven
+  - G. Bianconi
+  venue: 'Journal of Physics A: Mathematical and Theoretical'
+  year: 2022
+  links:
+    arxiv: https://arxiv.org/abs/2201.10773
+    paper: https://doi.org/10.1088/1751-8121/ac65c3
+  projects:
+  - epidemic
+- slug: universal-nonlinear-infection-kernel-from-heterogeneous-exposure-on-higher-order-networks
+  title: Universal nonlinear infection kernel from heterogeneous exposure on higher-order networks
+  authors:
+  - G. St-Onge
+  - H. Sun
+  - A. Allard
+  - L. Hébert-Dufresne
+  - G. Bianconi
+  venue: Physical Review Letters
+  year: 2021
+  links:
+    paper: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.158301
+    arxiv: https://arxiv.org/abs/2101.07229
+  featured: 5
+  projects:
+  - epidemic
+- slug: hypergraph
+  title: Higher-order percolation processes on multiplex hypergraphs
+  authors:
+  - H. Sun
+  - G. Bianconi
+  venue: Physical Review E
+  year: 2021
+  links:
+    arxiv: https://arxiv.org/abs/2104.05457
+    paper: https://doi.org/10.1103/PhysRevE.104.034306
+  projects:
+  - higher
+- slug: app
+  title: Message-passing approach to epidemic tracing and mitigation with apps
+  authors:
+  - G. Bianconi
+  - H. Sun
+  - G. Rapisardi
+  - A. Arenas
+  venue: Physical Review Research
+  year: 2021
+  links:
+    arxiv: https://arxiv.org/abs/2007.05277
+    paper: https://doi.org/10.1103/PhysRevResearch.3.L012014
+  projects:
+  - epidemic
+- slug: collaboration
+  title: Competition, Collaboration, and Optimization in Multiple Interacting Spreading Processes
+  authors:
+  - H. Sun†
+  - D. Saad
+  - A. Y. Lokhov
+  venue: Physical Review X
+  year: 2021
+  links:
+    arxiv: https://arxiv.org/abs/1905.04416
+    paper: https://doi.org/10.1103/PhysRevX.11.011048
+  featured: 1
+  projects:
+  - inference
+- slug: renormalization
+  title: Renormalization group theory of percolation on pseudofractal simplicial and cell complexes
+  authors:
+  - H. Sun
+  - R. M. Ziff
+  - G. Bianconi
+  venue: Physical Review E
+  year: 2020
+  links:
+    arxiv: https://arxiv.org/abs/2005.02984
+    paper: https://doi.org/10.1103/PhysRevE.102.012308
+  projects:
+  - higher

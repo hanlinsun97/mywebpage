@@ -22,6 +22,4 @@ I studied the effect of **time-dependent infectivity induced by containment meas
 
 ### Related publications
 
-- [Universal Nonlinear Infection Kernel from Heterogeneous Exposure on Higher-Order Networks](/publication/universal-nonlinear-infection-kernel-from-heterogeneous-exposure-on-higher-order-networks/) — *Physical Review Letters*
-- [Message-passing approach to epidemic tracing and mitigation with apps](/publication/app/) — *Physical Review Research*
-- [Critical time-dependent branching process modelling epidemic spreading with containment measures](/publication/criticaltimedependent/) — *Journal of Physics A*
+{{< pubs project="epidemic" >}}

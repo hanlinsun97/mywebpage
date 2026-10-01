@@ -1,0 +1,25 @@
+{{- $pubs := slice -}}
+{{- $featured := .Get "featured" -}}
+{{- $project := .Get "project" -}}
+{{- range site.Data.publications -}}
+  {{- if $featured -}}
+    {{- if .featured -}}{{- $pubs = $pubs | append . -}}{{- end -}}
+  {{- else if $project -}}
+    {{- if in .projects $project -}}{{- $pubs = $pubs | append . -}}{{- end -}}
+  {{- else -}}
+    {{- $pubs = $pubs | append . -}}
+  {{- end -}}
+{{- end -}}
+{{- if $featured -}}{{- $pubs = sort $pubs "featured" -}}{{- end -}}
+<ul class="pub-plain">
+{{- range $pubs }}
+  <li>
+    <span class="pub-title">{{ .title }}</span>, <span class="pub-venue">{{ .venue }}</span>, {{ .year }} — {{ range $i, $a := .authors }}{{ if $i }}, {{ end }}{{ if hasPrefix $a "H. Sun" }}<strong>{{ $a }}</strong>{{ else }}{{ $a }}{{ end }}{{ end }}{{ with .note }} <span class="pub-note">({{ . }})</span>{{ end }}
+    <div class="pub-links">
+      {{- with .links.paper }}<a href="{{ . }}">paper</a>{{ end -}}
+      {{- with .links.arxiv }}<a href="{{ . }}">preprint</a>{{ end -}}
+      {{- with .links.code }}<a href="{{ . }}">code</a>{{ end -}}
+    </div>
+  </li>
+{{- end }}
+</ul>

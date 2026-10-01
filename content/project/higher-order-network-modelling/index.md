@@ -20,11 +20,4 @@ I proposed a novel higher-order network model called **networks with triadic int
 
 ### Related publications
 
-- [The dynamic nature of percolation on networks with triadic interactions](/publication/triadic/) — *Nature Communications*
-- [Topology shapes dynamics of higher-order networks](/publication/topology-shapes-dynamics-of-higher-order-networks/) — *Nature Physics*
-- [Triadic percolation induces dynamical topological patterns in higher-order networks](/publication/triadic-percolation-induces-dynamical-topological-patterns-in-higher-order-networks/) — *PNAS Nexus*
-- [Triadic percolation on multilayer networks](/publication/triadic-percolation-on-multilayer-networks/) — *Physical Review E* (**Editors' Suggestion**)
-- [Higher-order triadic percolation on random hypergraphs](/publication/higher-order-triadic-percolation-on-random-hypergraphs/) — *Physical Review E*
-- [Spatio-temporal activity patterns induced by triadic interactions in an in silico neural medium](/publication/spatio-temporal-activity-patterns-induced-by-triadic-interactions-in-an-in-silico-neural-medium/) — *Journal of Physics: Complexity*
-- [Higher-order percolation processes on multiplex hypergraphs](/publication/hypergraph/) — *Physical Review E*
-- [Renormalization group theory of percolation on pseudofractal simplicial and cell complexes](/publication/renormalization/) — *Physical Review E*
+{{< pubs project="higher" >}}

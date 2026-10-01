@@ -185,3 +185,40 @@ a:focus,
   text-align: center;
   line-height: 1.4;
 }
+
+/* Plain publication lists (data/publications.yaml, shortcode `pubs`). */
+.pub-plain {
+  list-style: none;
+  padding-left: 0;
+  margin: 1.5rem 0;
+}
+
+.pub-plain li {
+  margin-bottom: 1.4rem;
+  line-height: 1.6;
+}
+
+.pub-plain .pub-title {
+  font-weight: 500;
+}
+
+.pub-plain .pub-venue,
+.pub-plain .pub-note {
+  color: #777;
+  font-style: italic;
+}
+
+.pub-plain .pub-links {
+  margin-top: 0.2rem;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+}
+
+.pub-plain .pub-links a {
+  border-left: 1px solid currentColor;
+  padding: 0 0.6rem;
+}
+
+.pub-plain .pub-links a:last-child {
+  border-right: 1px solid currentColor;
+}

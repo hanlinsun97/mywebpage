@@ -22,7 +22,4 @@ I investigated **shortest-path percolation**, a novel process where edges are re
 
 ### Related publications
 
-- [Unveiling the importance of nonshortest paths in quantum networks](/publication/unveiling-the-importance-of-nonshortest-paths-in-quantum-networks/) — *Science Advances*
-- [Network science: Ising states of matter](/publication/isingnet/) — *Physical Review E*
-- [Non-parametric learning critical behavior in Ising partition functions: PCA entropy and intrinsic dimension](/publication/non-parametric-learning-critical-behavior-in-ising-partition-functions-pca-entropy-and-intrinsic-dimension/) — *SciPost Physics Core*
-- [Shortest-path percolation on scale-free networks](/publication/shortest-path-percolation-on-scale-free-networks/) — *Physical Review E*
+{{< pubs project="applications" >}}

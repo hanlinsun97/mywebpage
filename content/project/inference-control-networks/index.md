@@ -18,4 +18,4 @@ I further proposed an **optimisation framework for the control of interacting sp
 
 ### Related publications
 
-- [Competition, Collaboration, and Optimization in Multiple Interacting Spreading Processes](/publication/collaboration/) — *Physical Review X*
+{{< pubs project="inference" >}}
