@@ -38,7 +38,7 @@ My research focuses on mathematical modelling of the interplay between network s
   <a href="/project/quantum-networks/" class="research-card">
     <img src="/project/quantum-networks/featured.png" alt="quantum networks" loading="lazy">
     <h3>quantum networks</h3>
-    <p>entanglement transmission &amp; nonshortest paths</p>
+    <p>entanglement transmission for quantum communication</p>
   </a>
 </div>
 
@@ -46,7 +46,7 @@ My research focuses on mathematical modelling of the interplay between network s
   <a href="/project/non-local-percolation/" class="research-card">
     <img src="/project/non-local-percolation/featured.png" alt="non-local percolation" loading="lazy">
     <h3>non-local percolation</h3>
-    <p>shortest-path percolation &amp; non-local rules</p>
+    <p>link/node removal in a non-local and adaptive fashion</p>
   </a>
 </div>
 
@@ -54,7 +54,7 @@ My research focuses on mathematical modelling of the interplay between network s
   <a href="/project/network-analysis/" class="research-card">
     <img src="/project/network-analysis/featured.png" alt="network analysis" loading="lazy">
     <h3>network analysis</h3>
-    <p>Ising states of matter &amp; non-parametric learning</p>
+    <p>tools from network science and topological data analysis</p>
   </a>
 </div>
 
