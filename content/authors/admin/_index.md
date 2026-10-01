@@ -51,7 +51,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:hanlinsun.work@gmail.com
+    link: /contact/
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/sunhanlin151
@@ -86,8 +86,6 @@ highlight_name: true
 Hanlin is a Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Fellow at the University of Granada, Spain, hosted by Prof. Miguel Ángel Muñoz, where he builds a network model for the mechanisms of epilepsy dynamics. He works on dynamic processes on networks and higher-order networks, percolation and critical phenomena, inference and optimization on networks, and interdisciplinary problems connecting network science, statistical physics, quantum networks, and neuroscience.
 
 Hanlin holds a Ph.D. in Applied Mathematics. During his PhD at Queen Mary University of London, he worked on network theory. His research focuses on several aspects of dynamic processes on networks and other structures with higher-order interactions, such as simplicial complexes and hypergraphs, under the supervision of Prof. Ginestra Bianconi. 
-
-Before joining Queen Mary, Hanlin studied physics at the University of Chinese Academy of Sciences, China (BSc). During his undergraduate study, he worked on the inference and optimization on multiple interacting spreading processes on networks under the supervisor of Prof. David Saad, Aston University, and low-rank approximation algorithms on tensor networks under the supervisor of Prof. Pan Zhang, Institute of Theoretical Physics, Chinese Academy of Sciences.
 
 From 2023 to 2026 he was a WINQ Research Fellow at Nordita, Stockholm, and in 2024 a visiting AccelNet/MultiNet Fellow at Indiana University with Prof. Filippo Radicchi.
 

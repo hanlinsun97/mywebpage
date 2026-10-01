@@ -3,7 +3,7 @@ title: Contact
 summary: Contact information and academic profiles.
 ---
 
-Email: [hanlinsun.work@gmail.com](mailto:hanlinsun.work@gmail.com)
+Email: hanlinsun.work at gmail dot com
 
 Profiles:
 
