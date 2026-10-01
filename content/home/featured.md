@@ -7,9 +7,9 @@ weight: 100
 
 title: Selected Publications
 design:
-  columns: "1"
+  columns: "2"
 ---
 
 {{< pubs featured="true" >}}
 
-<p class="pub-more"><a href="/publication/">all publications →</a></p>
+[all publications →](/publication/)

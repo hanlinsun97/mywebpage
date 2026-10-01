@@ -231,6 +231,8 @@ a:focus,
   list-style: none;
   padding-left: 0;
   margin: 1.5rem 0;
+  font-size: 0.95rem;
+  font-weight: 400;
 }
 
 .pub-plain li {
@@ -239,7 +241,7 @@ a:focus,
 }
 
 .pub-plain .pub-title {
-  font-weight: 400;
+  font-weight: 500;
 }
 
 .pub-plain .pub-venue,
@@ -250,7 +252,8 @@ a:focus,
 
 .pub-plain .pub-links {
   margin-top: 0.2rem;
-  font-size: 0.8rem;
+  font-size: 0.75rem;
+  font-weight: 500;
   text-transform: uppercase;
 }
 
@@ -263,20 +266,14 @@ a:focus,
   border-right: 1px solid currentColor;
 }
 
-/* Indent the list on wide screens, leaving the left margin empty as on maximelucas.github.io. */
+/* Publications page: leave the left margin empty on wide screens. */
 @media (min-width: 992px) {
-  .pub-plain {
+  .pub-indent .pub-plain {
     margin-left: 22%;
   }
 }
 
-.pub-plain .pub-links {
-  font-size: 0.75rem;
-  letter-spacing: 0.02em;
-}
-
-@media (min-width: 992px) {
-  .pub-more {
-    margin-left: 22%;
-  }
+/* Smaller home-page section headings (Biography, News, Experience, ...). */
+.section-heading h1 {
+  font-size: 1.6rem;
 }
