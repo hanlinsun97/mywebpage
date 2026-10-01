@@ -14,7 +14,7 @@
 <ul class="pub-plain">
 {{- range $pubs }}
   <li>
-    <span class="pub-title">{{ .title }}</span>, <span class="pub-venue">{{ .venue }}</span>, {{ .year }} — {{ range $i, $a := .authors }}{{ if $i }}, {{ end }}{{ if hasPrefix $a "H. Sun" }}<strong>{{ $a }}</strong>{{ else }}{{ $a }}{{ end }}{{ end }}{{ with .note }} <span class="pub-note">({{ . }})</span>{{ end }}
+    <span class="pub-title">{{ .title }}</span>, <span class="pub-venue">{{ .venue }}</span>, {{ .year }} — {{ range $i, $a := .authors }}{{ if $i }}, {{ end }}{{ $mark := "" }}{{ if strings.HasSuffix $a "†" }}{{ $mark = "†" }}{{ else if strings.HasSuffix $a "*" }}{{ $mark = "*" }}{{ end }}{{ $name := strings.TrimSuffix $mark $a }}{{ if hasPrefix $a "H. Sun" }}<strong>{{ $name }}</strong>{{ else }}{{ $name }}{{ end }}{{ with $mark }}<sup>{{ . }}</sup>{{ end }}{{ end }}{{ with .note }} <span class="pub-note">({{ . }})</span>{{ end }}
     <div class="pub-links">
       {{- with .links.paper }}<a href="{{ . }}">paper</a>{{ end -}}
       {{- with .links.arxiv }}<a href="{{ . }}">preprint</a>{{ end -}}
