@@ -6,12 +6,12 @@ title: Hanlin Sun
 superuser: true
 
 # Role/position/tagline
-role: Wallenberg Initiative on Networks and Quantum Information (WINQ) Research Fellow
+role: Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Nordita, Stockholm University and KTH Royal Institute of Technology
-    url: https://nordita.org/
+  - name: University of Granada, Spain
+    url: https://www.ugr.es/
 
 # Short bio (displayed in user profile at end of posts)
 
@@ -83,12 +83,12 @@ email: 'hanlinsun.work@gmail.com'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Hanlin is a research fellow at Nordita, Stockholm University and KTH Royal Institute of Technology, Sweden, funded by the Wallenberg Initiative on Networks and Quantum Information (WINQ). He works on dynamic processes on networks and higher-order networks, inference and optimization on networks, and interdisciplinary problems connecting network science, statistical physics, quantum networks, and neuroscience.
+Hanlin is a Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Fellow at the University of Granada, Spain, hosted by Prof. Miguel Ángel Muñoz, where he builds a network model for the mechanisms of epilepsy dynamics. He works on dynamic processes on networks and higher-order networks, percolation and critical phenomena, inference and optimization on networks, and interdisciplinary problems connecting network science, statistical physics, quantum networks, and neuroscience.
 
 Hanlin holds a Ph.D. in Applied Mathematics. During his PhD at Queen Mary University of London, he worked on network theory. His research focuses on several aspects of dynamic processes on networks and other structures with higher-order interactions, such as simplicial complexes and hypergraphs, under the supervision of Prof. Ginestra Bianconi. 
 
 Before joining Queen Mary, Hanlin studied physics at the University of Chinese Academy of Sciences, China (BSc). During his undergraduate study, he worked on the inference and optimization on multiple interacting spreading processes on networks under the supervisor of Prof. David Saad, Aston University, and low-rank approximation algorithms on tensor networks under the supervisor of Prof. Pan Zhang, Institute of Theoretical Physics, Chinese Academy of Sciences.
 
-He will start his new job as a MSCA fellow soon at University of Granada with Prof. Miguel Ángel Muñoz.
+From 2023 to 2026 he was a WINQ Research Fellow at Nordita, Stockholm, and in 2024 a visiting AccelNet/MultiNet Fellow at Indiana University with Prof. Filippo Radicchi.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.

@@ -7,10 +7,11 @@ My full CV is available [here](/uploads/resume.pdf).
 
 ## Current position
 
-- Wallenberg Initiative on Networks and Quantum Information (WINQ) Research Fellow, Nordita, Stockholm University and KTH Royal Institute of Technology, 2023-present.
+- Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Fellow, University of Granada, 2026-present.
 - Board Member, Network Science Society, 2025-present.
 
 ## Previous positions
+- WINQ Research Fellow, Nordita, Stockholm University and KTH Royal Institute of Technology, 2023-2026.
 - AccelNet-MultiNet Fellow, Indiana University Bloomington, 2024.
 - PhD researcher, Queen Mary University of London, 2019-2023.
 - Visiting student, Aston University, 2018.
@@ -43,6 +44,7 @@ My full CV is available [here](/uploads/resume.pdf).
 ## Grants and awards
 
 - Editors' Suggestion, Physical Review E, 2026.
+- Marie Skłodowska-Curie Actions Postdoctoral Fellowship, 2025.
 - Visiting Research Scholar, AccelNet/MultiNet Exchange program, 2024 ($8,000).
 - Nature Communications Editors' Highlight, 2023.
 - INI Network Support funding, Isaac Newton Institute for Mathematical Sciences, 2023 (£5,000).

@@ -14,6 +14,8 @@ design:
   column: "1"
   
 ---
+- 2026/09 I joined the University of Granada as a Marie Skłodowska-Curie Postdoctoral Fellow, hosted by Prof. Miguel Ángel Muñoz.
+- 2026/08 New preprint: [*Criticality and universality in network dismantling*](https://arxiv.org/abs/2608.27613).
 - 2026/04 Our roadmap paper [*Hypergraphs and simplicial complexes in focus: A roadmap for future research in higher-order interactions*](/publication/hypergraphs-and-simplicial-complexes-in-focus-a-roadmap-for-future-research-in-higher-order-interactions/) is published in *Journal of Physics: Complexity*.
 - 2026/02 Our paper [*Triadic percolation on multilayer networks*](/publication/triadic-percolation-on-multilayer-networks/) is selected as **Editors' Suggestion** in *Physical Review E*.
 - 2026/01 Our paper [*Triadic percolation on multilayer networks*](/publication/triadic-percolation-on-multilayer-networks/) is published in *Physical Review E*.

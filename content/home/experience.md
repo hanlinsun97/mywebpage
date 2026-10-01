@@ -25,6 +25,15 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
+  - title: Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Fellow
+    company: University of Granada
+    company_url: 'https://www.ugr.es/'
+    company_logo: ''
+    location: Granada, Spain
+    date_start: '2026-09-01'
+    date_end: ''
+    description: Network model for the mechanism of epilepsy dynamics, hosted by Prof. Miguel Ángel Muñoz.
+
   - title: Board Member
     company: Network Science Society
     company_url: 'https://www.netscisociety.net/home'
@@ -40,7 +49,7 @@ experience:
     company_logo: ''
     location: Stockholm, Sweden
     date_start: '2023-09-01'
-    date_end: ''
+    date_end: '2026-08-31'
     description: Research fellow funded by The Wallenberg Initiative on Networks and Quantum Information (WINQ).
 
   - title: AccelNet-MultiNet Fellow
