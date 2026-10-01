@@ -234,7 +234,7 @@ a:focus,
 }
 
 .pub-plain li {
-  margin-bottom: 1.4rem;
+  margin-bottom: 1.6rem;
   line-height: 1.6;
 }
 
@@ -261,4 +261,22 @@ a:focus,
 
 .pub-plain .pub-links a:last-child {
   border-right: 1px solid currentColor;
+}
+
+/* Indent the list on wide screens, leaving the left margin empty as on maximelucas.github.io. */
+@media (min-width: 992px) {
+  .pub-plain {
+    margin-left: 22%;
+  }
+}
+
+.pub-plain .pub-links {
+  font-size: 0.75rem;
+  letter-spacing: 0.02em;
+}
+
+@media (min-width: 992px) {
+  .pub-more {
+    margin-left: 22%;
+  }
 }

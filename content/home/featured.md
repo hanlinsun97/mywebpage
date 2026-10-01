@@ -12,4 +12,4 @@ design:
 
 {{< pubs featured="true" >}}
 
-[All publications](/publication/)
+<p class="pub-more"><a href="/publication/">all publications →</a></p>

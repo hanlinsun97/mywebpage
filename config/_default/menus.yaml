@@ -16,9 +16,6 @@ main:
   - name: Publications
     url: publication/
     weight: 40
-  - name: Code
-    url: code/
-    weight: 50
   - name: Vitae
     url: vitae/
     weight: 60
