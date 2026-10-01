@@ -266,13 +266,6 @@ a:focus,
   border-right: 1px solid currentColor;
 }
 
-/* Publications page: leave the left margin empty on wide screens. */
-@media (min-width: 992px) {
-  .pub-indent .pub-plain {
-    margin-left: 22%;
-  }
-}
-
 /* Smaller home-page section headings (Biography, News, Experience, ...). */
 .section-heading h1 {
   font-size: 1.6rem;
