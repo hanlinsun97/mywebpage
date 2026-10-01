@@ -1,11 +1,16 @@
 {{- $pubs := slice -}}
 {{- $featured := .Get "featured" -}}
 {{- $project := .Get "project" -}}
+{{- $kind := .Get "kind" -}}
 {{- range site.Data.publications -}}
   {{- if $featured -}}
     {{- if .featured -}}{{- $pubs = $pubs | append . -}}{{- end -}}
   {{- else if $project -}}
     {{- if in .projects $project -}}{{- $pubs = $pubs | append . -}}{{- end -}}
+  {{- else if eq $kind "preprint" -}}
+    {{- if eq .venue "arXiv" -}}{{- $pubs = $pubs | append . -}}{{- end -}}
+  {{- else if eq $kind "published" -}}
+    {{- if ne .venue "arXiv" -}}{{- $pubs = $pubs | append . -}}{{- end -}}
   {{- else -}}
     {{- $pubs = $pubs | append . -}}
   {{- end -}}

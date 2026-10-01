@@ -270,3 +270,14 @@ a:focus,
 .section-heading h1 {
   font-size: 1.6rem;
 }
+
+/* Publications page: wider container so the heading sits at the left edge, list indented. */
+.pub-page .article-container {
+  max-width: 1140px;
+}
+
+@media (min-width: 992px) {
+  .pub-indent .pub-plain {
+    margin-left: 22%;
+  }
+}
