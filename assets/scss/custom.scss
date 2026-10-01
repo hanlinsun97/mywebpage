@@ -2,6 +2,46 @@
 $site-accent-red: #b71c1c;
 $site-accent-red-hover: #8f1515;
 
+/* Typography: light Roboto with generous line height, as on maximelucas.github.io. */
+body,
+.navbar,
+.article-style,
+.btn,
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+}
+
+body {
+  font-weight: 300;
+  line-height: 1.7;
+  color: #000;
+}
+
+.article-style,
+.article-style p,
+.article-style li {
+  font-weight: 300;
+  line-height: 1.7;
+}
+
+h1, h2, h3, h4, h5, h6,
+.section-heading h1 {
+  font-weight: 300;
+  letter-spacing: 0;
+}
+
+.section-heading h1,
+.article-title,
+.article-style h2,
+.research-section h2 {
+  text-transform: lowercase;
+}
+
+.article-style strong,
+.article-style b {
+  font-weight: 500;
+}
+
 a,
 .article-style a,
 .docs-article-container a,
@@ -134,7 +174,7 @@ a:focus,
 
 .research-section h2 {
   font-size: 1.5rem;
-  font-weight: 600;
+  font-weight: 300;
   margin-bottom: 1.5rem;
   color: #333;
 }
@@ -199,7 +239,7 @@ a:focus,
 }
 
 .pub-plain .pub-title {
-  font-weight: 500;
+  font-weight: 400;
 }
 
 .pub-plain .pub-venue,
