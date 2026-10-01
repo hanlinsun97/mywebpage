@@ -273,7 +273,8 @@ a:focus,
 
 /* Publications page: wider container so the heading sits at the left edge, list indented. */
 .pub-page .article-container {
-  max-width: 1240px;
+  max-width: 1140px;
+  padding-right: 80px;
 }
 
 @media (min-width: 992px) {
