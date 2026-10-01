@@ -38,11 +38,29 @@ My research focuses on mathematical modelling of the interplay between network s
 </div>
 
 <div class="col-12 col-md-6 col-lg-4">
-  <a href="/project/network-theory-applications/" class="research-card">
-    <img src="/project/network-theory-applications/featured.png" alt="Applications" loading="lazy">
-    <h3>network theory applications</h3>
+  <a href="/project/quantum-networks/" class="research-card">
+    <div class="research-card-placeholder"></div>
+    <h3>quantum networks</h3>
     <hr>
-    <p>statistical physics, quantum networks &amp; non-local percolation</p>
+    <p>entanglement transmission &amp; nonshortest paths</p>
+  </a>
+</div>
+
+<div class="col-12 col-md-6 col-lg-4">
+  <a href="/project/non-local-percolation/" class="research-card">
+    <img src="/project/non-local-percolation/featured.png" alt="non-local percolation" loading="lazy">
+    <h3>non-local percolation</h3>
+    <hr>
+    <p>shortest-path percolation &amp; non-local rules</p>
+  </a>
+</div>
+
+<div class="col-12 col-md-6 col-lg-4">
+  <a href="/project/network-analysis/" class="research-card">
+    <div class="research-card-placeholder"></div>
+    <h3>network analysis</h3>
+    <hr>
+    <p>Ising states of matter &amp; non-parametric learning</p>
   </a>
 </div>
 

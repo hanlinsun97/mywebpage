@@ -85,7 +85,7 @@
     paper: https://journals.aps.org/pre/abstract/10.1103/pk8t-px35
     arxiv: https://arxiv.org/abs/2509.09142
   projects:
-  - applications
+  - nonlocal
 - slug: spatio-temporal-activity-patterns-induced-by-triadic-interactions-in-an-in-silico-neural-medium
   title: Spatio-temporal activity patterns induced by triadic interactions in an in silico neural medium
   authors:
@@ -118,7 +118,7 @@
     paper: https://www.science.org/doi/10.1126/sciadv.adt2404
   featured: 4
   projects:
-  - applications
+  - quantum
 - slug: topology-shapes-dynamics-of-higher-order-networks
   title: Topology shapes dynamics of higher-order networks
   authors:
@@ -179,7 +179,7 @@
     arxiv: https://arxiv.org/abs/2308.13604
     paper: https://doi.org/10.1103/PhysRevE.109.054305
   projects:
-  - applications
+  - analysis
 - slug: non-parametric-learning-critical-behavior-in-ising-partition-functions-pca-entropy-and-intrinsic-dimension
   title: 'Non-parametric learning critical behavior in Ising partition functions: PCA entropy and intrinsic dimension'
   authors:
@@ -195,7 +195,7 @@
     paper: https://scipost.org/SciPostPhysCore.6.4.086
     arxiv: https://arxiv.org/abs/2308.13636
   projects:
-  - applications
+  - analysis
 - slug: triadic
   title: The dynamic nature of percolation on networks with triadic interactions
   authors:
