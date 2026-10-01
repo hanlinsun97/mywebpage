@@ -36,7 +36,7 @@ My research focuses on mathematical modelling of the interplay between network s
 
 <div class="col-12 col-md-6 col-lg-4">
   <a href="/project/quantum-networks/" class="research-card">
-    <div class="research-card-placeholder"></div>
+    <img src="/project/quantum-networks/featured.png" alt="quantum networks" loading="lazy">
     <h3>quantum networks</h3>
     <p>entanglement transmission &amp; nonshortest paths</p>
   </a>
@@ -52,7 +52,7 @@ My research focuses on mathematical modelling of the interplay between network s
 
 <div class="col-12 col-md-6 col-lg-4">
   <a href="/project/network-analysis/" class="research-card">
-    <div class="research-card-placeholder"></div>
+    <img src="/project/network-analysis/featured.png" alt="network analysis" loading="lazy">
     <h3>network analysis</h3>
     <p>Ising states of matter &amp; non-parametric learning</p>
   </a>
